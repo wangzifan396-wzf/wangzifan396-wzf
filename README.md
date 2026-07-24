@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="./banner.svg" alt="nano-tools" width="100%">
+<img src="./nano-tools-poster.png" alt="nano-tools 全家福" width="100%">
 
 <br>
 
