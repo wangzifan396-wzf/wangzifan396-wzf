@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 101 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 102 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（51 款）
+## 旗舰工具（52 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -77,11 +77,12 @@
 <tr><td><b>KeyForge</b></td><td>离线键盘按键侦测：实时显示 key / code / keyCode / 修饰键组合，支持键码反查。</td><td><a href="https://wangzifan396-wzf.github.io/KeyForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/KeyForge">src</a></td></tr>
 <tr><td><b>LuhnForge</b></td><td>离线 Luhn 校验：银行卡号模 10 校验、卡组织识别（Visa/银联等）、校验位补全。</td><td><a href="https://wangzifan396-wzf.github.io/LuhnForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/LuhnForge">src</a></td></tr>
 <tr><td><b>DiagramForge</b></td><td>离线流程图编辑器：节点+连线结构化绘图，4 种形状、拖拽连线、撤销重做、自动布局，导出 SVG/JSON。</td><td><a href="https://wangzifan396-wzf.github.io/DiagramForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DiagramForge">src</a></td></tr>
+<tr><td><b>CodeForge</b></td><td>离线前端游乐场：HTML/CSS/JS 三栏编辑 + 沙箱 iframe 实时预览 + 控制台捕获，可导出独立 HTML。</td><td><a href="https://wangzifan396-wzf.github.io/CodeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CodeForge">src</a></td></tr>
 </table>
 
 ---
 
-## 全部工具按分类（101 款）
+## 全部工具按分类（102 款）
 
 ### 📝 文本处理
 
@@ -111,6 +112,7 @@
 | **MimeForge** | 离线 MIME 类型查询：扩展名 ↔ MIME 双向，内置 ~70 条常用映射，可扩展。 | ⭐ |
 | **KeyForge** | 离线键盘按键侦测：实时显示 key / code / keyCode / 修饰键组合，支持键码反查。 | ⭐ |
 | **LuhnForge** | 离线 Luhn 校验：银行卡号模 10 校验、卡组织识别（Visa/银联等）、校验位补全。 | ⭐ |
+| **CodeForge** | 离线前端游乐场：HTML/CSS/JS 三栏编辑 + 沙箱 iframe 实时预览 + 控制台捕获，可导出独立 HTML。 | ⭐ |
 
 ### 🤖 AI 工具
 
