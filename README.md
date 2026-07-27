@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 100 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 101 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（50 款）
+## 旗舰工具（51 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -76,11 +76,12 @@
 <tr><td><b>MorseForge</b></td><td>离线莫尔斯电码：文本 ↔ 电码互转，自动识别方向，内置完整速查表可点击输入。</td><td><a href="https://wangzifan396-wzf.github.io/MorseForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MorseForge">src</a></td></tr>
 <tr><td><b>KeyForge</b></td><td>离线键盘按键侦测：实时显示 key / code / keyCode / 修饰键组合，支持键码反查。</td><td><a href="https://wangzifan396-wzf.github.io/KeyForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/KeyForge">src</a></td></tr>
 <tr><td><b>LuhnForge</b></td><td>离线 Luhn 校验：银行卡号模 10 校验、卡组织识别（Visa/银联等）、校验位补全。</td><td><a href="https://wangzifan396-wzf.github.io/LuhnForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/LuhnForge">src</a></td></tr>
+<tr><td><b>DiagramForge</b></td><td>离线流程图编辑器：节点+连线结构化绘图，4 种形状、拖拽连线、撤销重做、自动布局，导出 SVG/JSON。</td><td><a href="https://wangzifan396-wzf.github.io/DiagramForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DiagramForge">src</a></td></tr>
 </table>
 
 ---
 
-## 全部工具按分类（100 款）
+## 全部工具按分类（101 款）
 
 ### 📝 文本处理
 
@@ -133,6 +134,7 @@
 | **DrawForge** | 离线白板：手绘风画笔、矩形、椭圆、箭头、文本，自由平移缩放，一键导出 PNG/SVG，自动本地保存。 | ⭐ |
 | **GraphForge** | 离线 Mermaid 图表编辑器：写 DSL 实时预览，一键导出 SVG/PNG，零依赖、数据永不离机。 | ⭐ |
 | **MindForge** | 本地优先思维导图编辑器：结构化节点树、自动布局、分支配色，导出 PNG/SVG/JSON，离线可用。 | ⭐ |
+| **DiagramForge** | 离线流程图编辑器：节点+连线结构化绘图，4 种形状、拖拽连线、撤销重做、自动布局，导出 SVG/JSON。 | ⭐ |
 
 ### 🎷️ 实用计算
 
