@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 104 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 115 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（54 款）
+## 旗舰工具（65 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -80,11 +80,22 @@
 <tr><td><b>CodeForge</b></td><td>离线前端游乐场：HTML/CSS/JS 三栏编辑 + 沙箱 iframe 实时预览 + 控制台捕获，可导出独立 HTML。</td><td><a href="https://wangzifan396-wzf.github.io/CodeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CodeForge">src</a></td></tr>
 <tr><td><b>PixelForge</b></td><td>离线像素画 / 精灵图编辑器：画笔、橡皮、填充、取色、直线、矩形、X 轴镜像、网格缩放、24 色调色板、动画帧+洋葱皮+FPS 预览，导出 PNG@Nx 与雪碧图，localStorage 多项目管理。</td><td><a href="https://wangzifan396-wzf.github.io/PixelForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PixelForge">src</a></td></tr>
 <tr><td><b>GIFForge</b></td><td>离线 GIF 动画制作器：拖入图片或雪碧图切片成帧，拖拽排帧、逐帧延时、循环与抖动控制，纯 JS GIF89a 编码器（LZW+中位切分量化）本地导出。</td><td><a href="https://wangzifan396-wzf.github.io/GIFForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/GIFForge">src</a></td></tr>
+<tr><td><b>MeshForge</b></td><td>离线 3D 模型查看器：拖入 OBJ / STL（二进制/ASCII 自动识别），WebGL 轨道渲染，着色/线框/点云三模式，坐标轴+网格+AABB 自动取景，PNG 快照导出。</td><td><a href="https://wangzifan396-wzf.github.io/MeshForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MeshForge">src</a></td></tr>
+<tr><td><b>RegexForge</b></td><td>离线正则测试与可视化：实时匹配高亮、捕获组与命名组、铁路图结构、速查表，一键导出匹配 JSON。</td><td><a href="https://wangzifan396-wzf.github.io/RegexForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/RegexForge">src</a></td></tr>
+<tr><td><b>WhiteboardForge</b></td><td>离线无限画布白板：矩形/椭圆/线/箭头/自由笔/文字/便签，平移缩放、撤销重做、本地自动保存，导出 PNG 与 SVG。</td><td><a href="https://wangzifan396-wzf.github.io/WhiteboardForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/WhiteboardForge">src</a></td></tr>
+<tr><td><b>SchemaForge</b></td><td>离线数据库建模 / ER 图设计器：可视化建表、外键关联，导出 MySQL / PostgreSQL / SQLite 多方言 SQL DDL 与 Mermaid。</td><td><a href="https://wangzifan396-wzf.github.io/SchemaForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SchemaForge">src</a></td></tr>
+<tr><td><b>ChartForge</b></td><td>离线数据图表生成器：粘贴 CSV / JSON / TSV，生成柱状 / 折线 / 饼 / 环形 / 散点 / 面积图，Canvas 渲染并导出 PNG 与 SVG。</td><td><a href="https://wangzifan396-wzf.github.io/ChartForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ChartForge">src</a></td></tr>
+<tr><td><b>BeautifyForge</b></td><td>离线代码美化与压缩：JavaScript / CSS / HTML / JSON 格式化与精简，字符串 / 注释 / 正则感知的 tokenizer，支持自动识别语言与实时字符统计。</td><td><a href="https://wangzifan396-wzf.github.io/BeautifyForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/BeautifyForge">src</a></td></tr>
+<tr><td><b>SheetForge</b></td><td>离线迷你电子表格：A1 引用、区域、SUM / AVG / IF / ROUND 等公式引擎，依赖图重算与环检测，CSV 导入导出，零依赖。</td><td><a href="https://wangzifan396-wzf.github.io/SheetForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SheetForge">src</a></td></tr>
+<tr><td><b>TypingForge</b></td><td>离线打字速度测试：WPM / CPM / 准确率 / 稳定性，逐字符实时高亮，15/30/60 秒模式，可复现词表与本地最佳记录。</td><td><a href="https://wangzifan396-wzf.github.io/TypingForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/TypingForge">src</a></td></tr>
+<tr><td><b>DateForge</b></td><td>离线日期计算器：日期间隔（年月日精确拆分）、加减推算、ISO 周 / 年积日 / 工作日、年龄与下次生日，纯整数序列算法无时区陷阱。</td><td><a href="https://wangzifan396-wzf.github.io/DateForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DateForge">src</a></td></tr>
+<tr><td><b>SemverForge</b></td><td>离线 SemVer 2.0.0 工具箱：版本解析校验、优先级比较排序、范围匹配（^ ~ x.* || 连字符）、bump 七种递增策略与版本差异判定。</td><td><a href="https://wangzifan396-wzf.github.io/SemverForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SemverForge">src</a></td></tr>
+<tr><td><b>HabitForge</b></td><td>离线习惯追踪器：每日打卡、当前 / 最长连击、近 30 天完成率、半年热力图，数据只存本地，支持 JSON 导入导出。</td><td><a href="https://wangzifan396-wzf.github.io/HabitForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/HabitForge">src</a></td></tr>
 </table>
 
 ---
 
-## 全部工具按分类（104 款）
+## 全部工具按分类（115 款）
 
 ### 📝 文本处理
 
@@ -115,6 +126,10 @@
 | **KeyForge** | 离线键盘按键侦测：实时显示 key / code / keyCode / 修饰键组合，支持键码反查。 | ⭐ |
 | **LuhnForge** | 离线 Luhn 校验：银行卡号模 10 校验、卡组织识别（Visa/银联等）、校验位补全。 | ⭐ |
 | **CodeForge** | 离线前端游乐场：HTML/CSS/JS 三栏编辑 + 沙箱 iframe 实时预览 + 控制台捕获，可导出独立 HTML。 | ⭐ |
+| **RegexForge** | 离线正则测试与可视化：实时匹配高亮、捕获组与命名组、铁路图结构、速查表，一键导出匹配 JSON。 | ⭐ |
+| **SchemaForge** | 离线数据库建模 / ER 图设计器：可视化建表、外键关联，导出 MySQL / PostgreSQL / SQLite 多方言 SQL DDL 与 Mermaid。 | ⭐ |
+| **BeautifyForge** | 离线代码美化与压缩：JavaScript / CSS / HTML / JSON 格式化与精简，字符串 / 注释 / 正则感知的 tokenizer，支持自动识别语言与实时字符统计。 | ⭐ |
+| **SemverForge** | 离线 SemVer 2.0.0 工具箱：版本解析校验、优先级比较排序、范围匹配（^ ~ x.* || 连字符）、bump 七种递增策略与版本差异判定。 | ⭐ |
 
 ### 🤖 AI 工具
 
@@ -158,6 +173,7 @@
 | **SVGForge** | SVG 压缩优化器：去元数据、精简小数、实时预览体积对比，转 Data URI / CSS background。 |  |
 | **PixelForge** | 离线像素画 / 精灵图编辑器：画笔、橡皮、填充、取色、直线、矩形、X 轴镜像、网格缩放、24 色调色板、动画帧+洋葱皮+FPS 预览，导出 PNG@Nx 与雪碧图，localStorage 多项目管理。 | ⭐ |
 | **GIFForge** | 离线 GIF 动画制作器：拖入图片或雪碧图切片成帧，拖拽排帧、逐帧延时、循环与抖动控制，纯 JS GIF89a 编码器（LZW+中位切分量化）本地导出。 | ⭐ |
+| **MeshForge** | 离线 3D 模型查看器：拖入 OBJ / STL（二进制/ASCII 自动识别），WebGL 轨道渲染，着色/线框/点云三模式，坐标轴+网格+AABB 自动取景，PNG 快照导出。 | ⭐ |
 
 ### 🎷️ 设计工具
 
@@ -209,6 +225,9 @@
 | **CVForge** | 离线简历 / CV 工作台：结构化表单 + 实时预览，三种模板，一键打印导出 PDF，JSON 导入导出，数据留本地。 | ⭐ |
 | **KanbanForge** | 离线看板：多列拖拽卡片，优先级 / 标签 / 搜索筛选，导出 Markdown / JSON，数据永不离机。 | ⭐ |
 | **InvoiceForge** | 离线发票 / 报价单生成器：行项目自动计税、人民币大写金额、A4 实时预览、一键打印导出 PDF。 | ⭐ |
+| **TypingForge** | 离线打字速度测试：WPM / CPM / 准确率 / 稳定性，逐字符实时高亮，15/30/60 秒模式，可复现词表与本地最佳记录。 | ⭐ |
+| **DateForge** | 离线日期计算器：日期间隔（年月日精确拆分）、加减推算、ISO 周 / 年积日 / 工作日、年龄与下次生日，纯整数序列算法无时区陷阱。 | ⭐ |
+| **HabitForge** | 离线习惯追踪器：每日打卡、当前 / 最长连击、近 30 天完成率、半年热力图，数据只存本地，支持 JSON 导入导出。 | ⭐ |
 
 ### 🛠️ 聚合器
 
@@ -225,6 +244,8 @@
 | **YamlForge** | 离线 YAML ⇄ JSON 转换器：块级映射/序列、嵌套、类型推断、带引号标量，零上传。 | ⭐ |
 | **CsvForge** | 离线 CSV 工具箱：解析 / 转 JSON / 转置 / 概览，零上传。 | ⭐ |
 | **XmlForge** | 离线 XML 工具：格式化缩进 / 结构校验（标签匹配闭合）。 |  |
+| **ChartForge** | 离线数据图表生成器：粘贴 CSV / JSON / TSV，生成柱状 / 折线 / 饼 / 环形 / 散点 / 面积图，Canvas 渲染并导出 PNG 与 SVG。 | ⭐ |
+| **SheetForge** | 离线迷你电子表格：A1 引用、区域、SUM / AVG / IF / ROUND 等公式引擎，依赖图重算与环检测，CSV 导入导出，零依赖。 | ⭐ |
 
 ### 🎷️ 编码工具
 
@@ -299,6 +320,7 @@
 | **AvatarForge** | 离线身份图标：种子文本生成确定性 identicon（SVG），零上传。 |  |
 | **FaviconForge** | 离线 Favicon 生成：文字 / Emoji → SVG，自定义配色。 |  |
 | **GradientForge** | 离线 CSS 渐变构建器：线性 / 径向 / 锥形，多色标实时预览，一键复制 CSS。 |  |
+| **WhiteboardForge** | 离线无限画布白板：矩形/椭圆/线/箭头/自由笔/文字/便签，平移缩放、撤销重做、本地自动保存，导出 PNG 与 SVG。 | ⭐ |
 
 ### 🎷️ 安全
 
