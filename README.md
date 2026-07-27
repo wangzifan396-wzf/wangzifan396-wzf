@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 102 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 103 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（52 款）
+## 旗舰工具（53 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -78,11 +78,12 @@
 <tr><td><b>LuhnForge</b></td><td>离线 Luhn 校验：银行卡号模 10 校验、卡组织识别（Visa/银联等）、校验位补全。</td><td><a href="https://wangzifan396-wzf.github.io/LuhnForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/LuhnForge">src</a></td></tr>
 <tr><td><b>DiagramForge</b></td><td>离线流程图编辑器：节点+连线结构化绘图，4 种形状、拖拽连线、撤销重做、自动布局，导出 SVG/JSON。</td><td><a href="https://wangzifan396-wzf.github.io/DiagramForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DiagramForge">src</a></td></tr>
 <tr><td><b>CodeForge</b></td><td>离线前端游乐场：HTML/CSS/JS 三栏编辑 + 沙箱 iframe 实时预览 + 控制台捕获，可导出独立 HTML。</td><td><a href="https://wangzifan396-wzf.github.io/CodeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CodeForge">src</a></td></tr>
+<tr><td><b>PixelForge</b></td><td>离线像素画 / 精灵图编辑器：画笔、橡皮、填充、取色、直线、矩形、X 轴镜像、网格缩放、24 色调色板、动画帧+洋葱皮+FPS 预览，导出 PNG@Nx 与雪碧图，localStorage 多项目管理。</td><td><a href="https://wangzifan396-wzf.github.io/PixelForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PixelForge">src</a></td></tr>
 </table>
 
 ---
 
-## 全部工具按分类（102 款）
+## 全部工具按分类（103 款）
 
 ### 📝 文本处理
 
@@ -154,6 +155,7 @@
 |---|---|:---:|
 | **SnapCompress** | 纯 Canvas 图片压缩：JPEG/PNG/WebP、质量与最大宽度可调、压缩前后实时对比。 |  |
 | **SVGForge** | SVG 压缩优化器：去元数据、精简小数、实时预览体积对比，转 Data URI / CSS background。 |  |
+| **PixelForge** | 离线像素画 / 精灵图编辑器：画笔、橡皮、填充、取色、直线、矩形、X 轴镜像、网格缩放、24 色调色板、动画帧+洋葱皮+FPS 预览，导出 PNG@Nx 与雪碧图，localStorage 多项目管理。 | ⭐ |
 
 ### 🎷️ 设计工具
 
