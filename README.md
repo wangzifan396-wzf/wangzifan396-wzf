@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 100 款单文件工具 · 零依赖 · 本地优先
+### 126 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![100 Tools](https://img.shields.io/badge/工具-100%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![102 Repos](https://img.shields.io/badge/仓库-102%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![50 Flagship](https://img.shields.io/badge/旗舰-50%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![126 Tools](https://img.shields.io/badge/工具-126%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![128 Repos](https://img.shields.io/badge/仓库-128%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![78 Flagship](https://img.shields.io/badge/旗舰-78%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 122 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 126 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（74 款）
+## 旗舰工具（78 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -31,6 +31,10 @@
 <tr><td><b>PunyForge</b></td><td>Punycode/IDN 转换：RFC 3492 编解码，中文等 Unicode 域名 ↔ xn-- ASCII 互转，逐标签处理。</td><td><a href="https://wangzifan396-wzf.github.io/PunyForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PunyForge">src</a></td></tr>
 <tr><td><b>ChangelogForge</b></td><td>Conventional Commits 解析：提交信息分组生成 CHANGELOG，breaking/feat/fix 自动推断下一个 SemVer 版本。</td><td><a href="https://wangzifan396-wzf.github.io/ChangelogForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ChangelogForge">src</a></td></tr>
 <tr><td><b>ULIDForge</b></td><td>ULID 生成与解码：Crockford Base32，48 位毫秒时间戳 + 80 位随机，可排序、可校验、可反解时间。</td><td><a href="https://wangzifan396-wzf.github.io/ULIDForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ULIDForge">src</a></td></tr>
+<tr><td><b>PasswordForge</b></td><td>安全口令生成器：可配字符集、避开易混字符（Il1O0o）、每类至少含一个，实时熵估计。</td><td><a href="https://wangzifan396-wzf.github.io/PasswordForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PasswordForge">src</a></td></tr>
+<tr><td><b>NumeralForge</b></td><td>数字转英文单词与人民币大写金额，支持负数与小数。</td><td><a href="https://wangzifan396-wzf.github.io/NumeralForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/NumeralForge">src</a></td></tr>
+<tr><td><b>SparkForge</b></td><td>数据序列一键生成 SVG 迷你折线图与柱状图，纯函数返回 SVG 字符串。</td><td><a href="https://wangzifan396-wzf.github.io/SparkForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SparkForge">src</a></td></tr>
+<tr><td><b>FigletForge</b></td><td>文本转 ASCII 方块艺术字，内置字体、可自定义填充字符与间距。</td><td><a href="https://wangzifan396-wzf.github.io/FigletForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/FigletForge">src</a></td></tr>
 <tr><td><b>DrawForge</b></td><td>离线白板：手绘风画笔、矩形、椭圆、箭头、文本，自由平移缩放，一键导出 PNG/SVG，自动本地保存。</td><td><a href="https://wangzifan396-wzf.github.io/DrawForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DrawForge">src</a></td></tr>
 <tr><td><b>GraphForge</b></td><td>离线 Mermaid 图表编辑器：写 DSL 实时预览，一键导出 SVG/PNG，零依赖、数据永不离机。</td><td><a href="https://wangzifan396-wzf.github.io/GraphForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/GraphForge">src</a></td></tr>
 <tr><td><b>APIForge</b></td><td>离线 REST / GraphQL 客户端：请求构建、Bearer/Basic 鉴权、响应计时与体积、历史记录，零依赖。</td><td><a href="https://wangzifan396-wzf.github.io/APIForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/APIForge">src</a></td></tr>
@@ -104,7 +108,7 @@
 
 ---
 
-## 全部工具按分类（122 款）
+## 全部工具按分类（126 款）
 
 ### 📝 文本处理
 
@@ -114,6 +118,7 @@
 | **DiffLens** | 基于 LCS 的文本 / JSON 差异对比，并排与内联双视图，JSON 规范化后按结构比对。 |  |
 | **JsonForge** | JSON 工作台：格式化 / 压缩 / 校验、转 TypeScript 类型、JSONPath 查询、树形浏览。 |  |
 | **DataForge** | JSON / CSV / TOML 三格式互转：嵌套表、数组表、标量数组均保留，实时转换、一键交换。 |  |
+| **FigletForge** | 文本转 ASCII 方块艺术字，内置字体、可自定义填充字符与间距。 | ⭐ |
 | **DiffForge** | 离线文本差异对比：基于 LCS 的行级 diff + 并排视图，统计增删，内置逐字符 inline diff。 | ⭐ |
 
 ### 🔧 开发辅助
@@ -162,6 +167,7 @@
 |---|---|:---:|
 | **Graphite** | SVG 可视化节点编辑器：拖拽连线、自动布局，导出 SVG / PNG / JSON / Markdown。 |  |
 | **Chartify** | CSV / JSON 秒变 SVG 图表：柱状、折线、饼图，可导出矢量图，纯前端渲染。 |  |
+| **SparkForge** | 数据序列一键生成 SVG 迷你折线图与柱状图，纯函数返回 SVG 字符串。 | ⭐ |
 | **DrawForge** | 离线白板：手绘风画笔、矩形、椭圆、箭头、文本，自由平移缩放，一键导出 PNG/SVG，自动本地保存。 | ⭐ |
 | **GraphForge** | 离线 Mermaid 图表编辑器：写 DSL 实时预览，一键导出 SVG/PNG，零依赖、数据永不离机。 | ⭐ |
 | **MindForge** | 本地优先思维导图编辑器：结构化节点树、自动布局、分支配色，导出 PNG/SVG/JSON，离线可用。 | ⭐ |
@@ -172,6 +178,7 @@
 | 工具 | 说明 | 旗舰 |
 |---|---|:---:|
 | **UniConvert** | 12 类万能单位换算：长度、重量、温度、数据、时间、货币格式等，实时联动。 |  |
+| **NumeralForge** | 数字转英文单词与人民币大写金额，支持负数与小数。 | ⭐ |
 | **BaseForge** | 进制转换增强版：大整数（BigInt）、小数部分、自定义字符表（base62/58）、2–36 进制。 |  |
 | **TimeForge** | 时间工具箱：Unix 时间戳 ⇄ 日期互转（自动识别秒/毫秒），6 时区对照，日期差与人性化时长计算。 |  |
 | **EnvForge** | 离线 .env 解析 / 对比 / 校验器：变量引用展开、两份配置差异、必填项校验，纯本地。 |  |
@@ -216,6 +223,13 @@
 | **UnicodeForge** | 离线 Unicode 检查器：文本 ↔ \\uXXXX 转义、码点 U+、UTF-8 字节、HTML 实体互转。 |  |
 | **TotpForge** | 离线 TOTP 身份验证器：纯 JS HMAC-SHA1（RFC 4226/6238 验证），Base32/ASCII 密钥，实时倒计时。 | ⭐ |
 | **HexForge** | 离线十六进制查看器：文本(UTF-8)/十六进制/本地文件 → xxd 格式 dump，数据不出本机。 | ⭐ |
+
+### 🎷️ 安全工具
+
+| 工具 | 说明 | 旗舰 |
+|---|---|:---:|
+| **PasswordForge** | 安全口令生成器：可配字符集、避开易混字符（Il1O0o）、每类至少含一个，实时熵估计。 | ⭐ |
+| **VaultForge** | 本地优先的零知识加密密码库：AES-GCM + PBKDF2，登录/卡片/笔记/身份全加密，数据永不出端。 | ⭐ |
 
 ### 🎷️ AI 效率
 
@@ -268,12 +282,6 @@
 | 工具 | 说明 | 旗舰 |
 |---|---|:---:|
 | **QRForge** | 纯前端二维码生成器：文本/网址/WiFi/名片，可调容错与配色，导出 SVG 与 PNG。真离线、零依赖。 | ⭐ |
-
-### 🎷️ 安全工具
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **VaultForge** | 本地优先的零知识加密密码库：AES-GCM + PBKDF2，登录/卡片/笔记/身份全加密，数据永不出端。 | ⭐ |
 
 ### 🎷️ 效率
 
