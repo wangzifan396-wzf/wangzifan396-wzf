@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 130 款单文件工具 · 零依赖 · 本地优先
+### 134 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![130 Tools](https://img.shields.io/badge/工具-130%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![132 Repos](https://img.shields.io/badge/仓库-132%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![82 Flagship](https://img.shields.io/badge/旗舰-82%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![134 Tools](https://img.shields.io/badge/工具-134%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![136 Repos](https://img.shields.io/badge/仓库-136%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![86 Flagship](https://img.shields.io/badge/旗舰-86%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 130 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 134 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（82 款）
+## 旗舰工具（86 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -39,6 +39,10 @@
 <tr><td><b>UtmForge</b></td><td>UTM 参数构建、解析与校验，增长营销溯源。</td><td><a href="https://wangzifan396-wzf.github.io/UtmForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/UtmForge">src</a></td></tr>
 <tr><td><b>InterestForge</b></td><td>复利终值与等额本息贷款摊销表计算。</td><td><a href="https://wangzifan396-wzf.github.io/InterestForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/InterestForge">src</a></td></tr>
 <tr><td><b>MailForge</b></td><td>邮箱语法校验、解析与角色识别。</td><td><a href="https://wangzifan396-wzf.github.io/MailForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MailForge">src</a></td></tr>
+<tr><td><b>HashForge</b></td><td>哈希摘要校验器：纯 JS SHA-256/SHA-1/MD5，软件完整性校验。</td><td><a href="https://wangzifan396-wzf.github.io/HashForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/HashForge">src</a></td></tr>
+<tr><td><b>BackoffForge</b></td><td>指数退避与抖动计算器：full/equal/decorrelated 策略，API 重试韧性。</td><td><a href="https://wangzifan396-wzf.github.io/BackoffForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/BackoffForge">src</a></td></tr>
+<tr><td><b>UnitForge</b></td><td>通用单位换算：长度/质量/温度/速度/数据/面积/体积/时间/能量/压强。</td><td><a href="https://wangzifan396-wzf.github.io/UnitForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/UnitForge">src</a></td></tr>
+<tr><td><b>ReadForge</b></td><td>文本可读性评分：Flesch Reading Ease 与 Flesch-Kincaid 年级，写作质量。</td><td><a href="https://wangzifan396-wzf.github.io/ReadForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ReadForge">src</a></td></tr>
 <tr><td><b>DrawForge</b></td><td>离线白板：手绘风画笔、矩形、椭圆、箭头、文本，自由平移缩放，一键导出 PNG/SVG，自动本地保存。</td><td><a href="https://wangzifan396-wzf.github.io/DrawForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DrawForge">src</a></td></tr>
 <tr><td><b>GraphForge</b></td><td>离线 Mermaid 图表编辑器：写 DSL 实时预览，一键导出 SVG/PNG，零依赖、数据永不离机。</td><td><a href="https://wangzifan396-wzf.github.io/GraphForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/GraphForge">src</a></td></tr>
 <tr><td><b>APIForge</b></td><td>离线 REST / GraphQL 客户端：请求构建、Bearer/Basic 鉴权、响应计时与体积、历史记录，零依赖。</td><td><a href="https://wangzifan396-wzf.github.io/APIForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/APIForge">src</a></td></tr>
@@ -112,7 +116,7 @@
 
 ---
 
-## 全部工具按分类（130 款）
+## 全部工具按分类（134 款）
 
 ### 📝 文本处理
 
@@ -124,6 +128,7 @@
 | **DataForge** | JSON / CSV / TOML 三格式互转：嵌套表、数组表、标量数组均保留，实时转换、一键交换。 |  |
 | **FigletForge** | 文本转 ASCII 方块艺术字，内置字体、可自定义填充字符与间距。 | ⭐ |
 | **MailForge** | 邮箱语法校验、解析与角色识别。 | ⭐ |
+| **ReadForge** | 文本可读性评分：Flesch Reading Ease 与 Flesch-Kincaid 年级，写作质量。 | ⭐ |
 | **DiffForge** | 离线文本差异对比：基于 LCS 的行级 diff + 并排视图，统计增删，内置逐字符 inline diff。 | ⭐ |
 
 ### 🔧 开发辅助
@@ -138,6 +143,7 @@
 | **SnowflakeForge** | Snowflake ID 工作台：BigInt 按 41 位时间戳 + 10 位机器 + 12 位序列拆解与合成，自定义 epoch 与数据中心位。 | ⭐ |
 | **ChangelogForge** | Conventional Commits 解析：提交信息分组生成 CHANGELOG，breaking/feat/fix 自动推断下一个 SemVer 版本。 | ⭐ |
 | **UtmForge** | UTM 参数构建、解析与校验，增长营销溯源。 | ⭐ |
+| **BackoffForge** | 指数退避与抖动计算器：full/equal/decorrelated 策略，API 重试韧性。 | ⭐ |
 | **APIForge** | 离线 REST / GraphQL 客户端：请求构建、Bearer/Basic 鉴权、响应计时与体积、历史记录，零依赖。 | ⭐ |
 | **ChmodForge** | 离线 UNIX 权限计算器：八进制 ↔ rwx 符号互转，支持 setuid/setgid/sticky。 |  |
 | **DockerForge** | 离线 docker run → docker-compose.yml 转换：支持 30+ 参数，YAML 安全转义。 |  |
@@ -186,6 +192,7 @@
 | **UniConvert** | 12 类万能单位换算：长度、重量、温度、数据、时间、货币格式等，实时联动。 |  |
 | **NumeralForge** | 数字转英文单词与人民币大写金额，支持负数与小数。 | ⭐ |
 | **InterestForge** | 复利终值与等额本息贷款摊销表计算。 | ⭐ |
+| **UnitForge** | 通用单位换算：长度/质量/温度/速度/数据/面积/体积/时间/能量/压强。 | ⭐ |
 | **BaseForge** | 进制转换增强版：大整数（BigInt）、小数部分、自定义字符表（base62/58）、2–36 进制。 |  |
 | **TimeForge** | 时间工具箱：Unix 时间戳 ⇄ 日期互转（自动识别秒/毫秒），6 时区对照，日期差与人性化时长计算。 |  |
 | **EnvForge** | 离线 .env 解析 / 对比 / 校验器：变量引用展开、两份配置差异、必填项校验，纯本地。 |  |
@@ -222,6 +229,7 @@
 | **PunyForge** | Punycode/IDN 转换：RFC 3492 编解码，中文等 Unicode 域名 ↔ xn-- ASCII 互转，逐标签处理。 | ⭐ |
 | **ULIDForge** | ULID 生成与解码：Crockford Base32，48 位毫秒时间戳 + 80 位随机，可排序、可校验、可反解时间。 | ⭐ |
 | **HtmlEntityForge** | HTML 实体编解码：命名/十进制/十六进制，XSS 安全转义。 | ⭐ |
+| **HashForge** | 哈希摘要校验器：纯 JS SHA-256/SHA-1/MD5，软件完整性校验。 | ⭐ |
 | **JwtForge** | 离线 JWT / Token 解码器：拆分 header、payload、signature，可读化 exp/nbf/iat，不校验签名。 | ⭐ |
 | **UuidForge** | 离线 UUID / nanoid 生成器：v4 随机、v7 时间有序、v5 命名空间哈希（可复现）、批量生成与校验，数据永不离机。 | ⭐ |
 | **AuthForge** | 离线 TOTP 身份验证器：自写 SHA1/HMAC-SHA1/RFC6238，生成 2FA 动态验证码与密钥，数据永不离机。 | ⭐ |
