@@ -16,16 +16,21 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 115 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 122 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（65 款）
+## 旗舰工具（74 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
+<tr><td><b>CronForge</b></td><td>Crontab 可视化：表达式解析成人话、预测未来 5 次运行、24 小时 + 7 天时刻表。</td><td><a href="https://wangzifan396-wzf.github.io/CronForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CronForge">src</a></td></tr>
+<tr><td><b>SnowflakeForge</b></td><td>Snowflake ID 工作台：BigInt 按 41 位时间戳 + 10 位机器 + 12 位序列拆解与合成，自定义 epoch 与数据中心位。</td><td><a href="https://wangzifan396-wzf.github.io/SnowflakeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SnowflakeForge">src</a></td></tr>
+<tr><td><b>PunyForge</b></td><td>Punycode/IDN 转换：RFC 3492 编解码，中文等 Unicode 域名 ↔ xn-- ASCII 互转，逐标签处理。</td><td><a href="https://wangzifan396-wzf.github.io/PunyForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PunyForge">src</a></td></tr>
+<tr><td><b>ChangelogForge</b></td><td>Conventional Commits 解析：提交信息分组生成 CHANGELOG，breaking/feat/fix 自动推断下一个 SemVer 版本。</td><td><a href="https://wangzifan396-wzf.github.io/ChangelogForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ChangelogForge">src</a></td></tr>
+<tr><td><b>ULIDForge</b></td><td>ULID 生成与解码：Crockford Base32，48 位毫秒时间戳 + 80 位随机，可排序、可校验、可反解时间。</td><td><a href="https://wangzifan396-wzf.github.io/ULIDForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ULIDForge">src</a></td></tr>
 <tr><td><b>DrawForge</b></td><td>离线白板：手绘风画笔、矩形、椭圆、箭头、文本，自由平移缩放，一键导出 PNG/SVG，自动本地保存。</td><td><a href="https://wangzifan396-wzf.github.io/DrawForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DrawForge">src</a></td></tr>
 <tr><td><b>GraphForge</b></td><td>离线 Mermaid 图表编辑器：写 DSL 实时预览，一键导出 SVG/PNG，零依赖、数据永不离机。</td><td><a href="https://wangzifan396-wzf.github.io/GraphForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/GraphForge">src</a></td></tr>
 <tr><td><b>APIForge</b></td><td>离线 REST / GraphQL 客户端：请求构建、Bearer/Basic 鉴权、响应计时与体积、历史记录，零依赖。</td><td><a href="https://wangzifan396-wzf.github.io/APIForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/APIForge">src</a></td></tr>
@@ -41,6 +46,7 @@
 <tr><td><b>ImageForge</b></td><td>离线图片编辑器：裁剪、缩放、旋转翻转、亮度 / 对比度 / 饱和度 / 色相 / 模糊调整、滤镜，导出 PNG/JPEG/WebP，零上传。</td><td><a href="https://wangzifan396-wzf.github.io/ImageForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ImageForge">src</a></td></tr>
 <tr><td><b>AudioForge</b></td><td>离线音频编辑器：加载音频、波形预览、裁剪、增益、淡入淡出、归一化、反转，导出 WAV，零上传。</td><td><a href="https://wangzifan396-wzf.github.io/AudioForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/AudioForge">src</a></td></tr>
 <tr><td><b>A11yForge</b></td><td>离线无障碍工具箱：WCAG 对比度检查、合规取色、色盲模拟、HTML/ARIA 审计，零上传。</td><td><a href="https://wangzifan396-wzf.github.io/A11yForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/A11yForge">src</a></td></tr>
+<tr><td><b>JwtForge</b></td><td>离线 JWT / Token 解码器：拆分 header、payload、signature，可读化 exp/nbf/iat，不校验签名。</td><td><a href="https://wangzifan396-wzf.github.io/JwtForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/JwtForge">src</a></td></tr>
 <tr><td><b>PromptForge</b></td><td>本地优先 AI Prompt 工作台：变量模板、实时预览、BYOK 直连大模型、Token 与成本估算、本地历史，密钥永不离机。</td><td><a href="https://wangzifan396-wzf.github.io/PromptForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PromptForge">src</a></td></tr>
 <tr><td><b>PDFForge</b></td><td>本地优先 PDF 工具箱：合并、拆分、旋转、重排、优化重存，文件永不上传。</td><td><a href="https://wangzifan396-wzf.github.io/PDFForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PDFForge">src</a></td></tr>
 <tr><td><b>TableForge</b></td><td>离线表格工作台：粘贴 CSV/TSV/JSON 即解析，单元格编辑、增删行列、排序、筛选、分组聚合，导出 Markdown/HTML/JSON/CSV/TSV。</td><td><a href="https://wangzifan396-wzf.github.io/TableForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/TableForge">src</a></td></tr>
@@ -91,11 +97,14 @@
 <tr><td><b>DateForge</b></td><td>离线日期计算器：日期间隔（年月日精确拆分）、加减推算、ISO 周 / 年积日 / 工作日、年龄与下次生日，纯整数序列算法无时区陷阱。</td><td><a href="https://wangzifan396-wzf.github.io/DateForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DateForge">src</a></td></tr>
 <tr><td><b>SemverForge</b></td><td>离线 SemVer 2.0.0 工具箱：版本解析校验、优先级比较排序、范围匹配（^ ~ x.* || 连字符）、bump 七种递增策略与版本差异判定。</td><td><a href="https://wangzifan396-wzf.github.io/SemverForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SemverForge">src</a></td></tr>
 <tr><td><b>HabitForge</b></td><td>离线习惯追踪器：每日打卡、当前 / 最长连击、近 30 天完成率、半年热力图，数据只存本地，支持 JSON 导入导出。</td><td><a href="https://wangzifan396-wzf.github.io/HabitForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/HabitForge">src</a></td></tr>
+<tr><td><b>JsonPathForge</b></td><td>离线 JSONPath 查询器：自研解析器支持 $ . .. [*] [n] [切片] [?(@.x op v)] 过滤与正则匹配，实时高亮命中、输出规范化路径。</td><td><a href="https://wangzifan396-wzf.github.io/JsonPathForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/JsonPathForge">src</a></td></tr>
+<tr><td><b>NginxForge</b></td><td>离线 Nginx 配置生成器：静态 / SPA / 反向代理 / 负载均衡四预设，HTTPS / HTTP2 / gzip / 安全头 / WebSocket / 限流一键生成，先校验后产出。</td><td><a href="https://wangzifan396-wzf.github.io/NginxForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/NginxForge">src</a></td></tr>
+<tr><td><b>ColorBlindForge</b></td><td>离线色觉障碍模拟器：Machado 三型 + 全色盲模拟，sRGB↔Lab 转换、WCAG 对比度与 ΔE 审计，调色板无障碍检查。</td><td><a href="https://wangzifan396-wzf.github.io/ColorBlindForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ColorBlindForge">src</a></td></tr>
 </table>
 
 ---
 
-## 全部工具按分类（115 款）
+## 全部工具按分类（122 款）
 
 ### 📝 文本处理
 
@@ -115,7 +124,9 @@
 | **BoxKit** | 19 合 1 离线开发者工具箱：JSON/YAML、Base64、哈希、时间戳、正则、颜色等一站搞定。 |  |
 | **RESTKit** | 离线 REST 客户端：请求构建、查询参数 / 头 / Body、Bearer/Basic 鉴权、响应计时与历史记录。 |  |
 | **MockForge** | 假数据 / Mock 生成器：14 种字段类型、可复现种子，一键导出 JSON / CSV / SQL。 |  |
-| **CronForge** | Crontab 可视化：表达式解析成人话、预测未来 5 次运行、24 小时 + 7 天时刻表。 |  |
+| **CronForge** | Crontab 可视化：表达式解析成人话、预测未来 5 次运行、24 小时 + 7 天时刻表。 | ⭐ |
+| **SnowflakeForge** | Snowflake ID 工作台：BigInt 按 41 位时间戳 + 10 位机器 + 12 位序列拆解与合成，自定义 epoch 与数据中心位。 | ⭐ |
+| **ChangelogForge** | Conventional Commits 解析：提交信息分组生成 CHANGELOG，breaking/feat/fix 自动推断下一个 SemVer 版本。 | ⭐ |
 | **APIForge** | 离线 REST / GraphQL 客户端：请求构建、Bearer/Basic 鉴权、响应计时与体积、历史记录，零依赖。 | ⭐ |
 | **ChmodForge** | 离线 UNIX 权限计算器：八进制 ↔ rwx 符号互转，支持 setuid/setgid/sticky。 |  |
 | **DockerForge** | 离线 docker run → docker-compose.yml 转换：支持 30+ 参数，YAML 安全转义。 |  |
@@ -130,6 +141,7 @@
 | **SchemaForge** | 离线数据库建模 / ER 图设计器：可视化建表、外键关联，导出 MySQL / PostgreSQL / SQLite 多方言 SQL DDL 与 Mermaid。 | ⭐ |
 | **BeautifyForge** | 离线代码美化与压缩：JavaScript / CSS / HTML / JSON 格式化与精简，字符串 / 注释 / 正则感知的 tokenizer，支持自动识别语言与实时字符统计。 | ⭐ |
 | **SemverForge** | 离线 SemVer 2.0.0 工具箱：版本解析校验、优先级比较排序、范围匹配（^ ~ x.* || 连字符）、bump 七种递增策略与版本差异判定。 | ⭐ |
+| **NginxForge** | 离线 Nginx 配置生成器：静态 / SPA / 反向代理 / 负载均衡四预设，HTTPS / HTTP2 / gzip / 安全头 / WebSocket / 限流一键生成，先校验后产出。 | ⭐ |
 
 ### 🤖 AI 工具
 
@@ -185,6 +197,7 @@
 | **IconForge** | 线性图标工作台：17 款描边图标、可调描边色/粗细/尺寸/填充，一键复制或下载 SVG。 |  |
 | **FontForge** | 字体预览与排版样张工作台：拖入字体即时渲染，调节字号 / 行高 / 字距 / 字重，字形表与可移植样张导出，本地优先。 | ⭐ |
 | **ImageForge** | 离线图片编辑器：裁剪、缩放、旋转翻转、亮度 / 对比度 / 饱和度 / 色相 / 模糊调整、滤镜，导出 PNG/JPEG/WebP，零上传。 | ⭐ |
+| **ColorBlindForge** | 离线色觉障碍模拟器：Machado 三型 + 全色盲模拟，sRGB↔Lab 转换、WCAG 对比度与 ΔE 审计，调色板无障碍检查。 | ⭐ |
 
 ### 🎷️ 编码加密
 
@@ -192,7 +205,9 @@
 |---|---|:---:|
 | **HashKit** | 编码与哈希工具箱：Base64/URL/HTML 编解码、SHA 哈希、JWT 解码、UUID 与密码生成。 |  |
 | **PassForge** | 密码 / 口令生成器：字符集与长度可调、Diceware 助记短语、熵值与强度评估。 |  |
-| **JwtForge** | 离线 JWT / Token 解码器：拆分 header、payload、signature，可读化 exp/nbf/iat，不校验签名。 |  |
+| **PunyForge** | Punycode/IDN 转换：RFC 3492 编解码，中文等 Unicode 域名 ↔ xn-- ASCII 互转，逐标签处理。 | ⭐ |
+| **ULIDForge** | ULID 生成与解码：Crockford Base32，48 位毫秒时间戳 + 80 位随机，可排序、可校验、可反解时间。 | ⭐ |
+| **JwtForge** | 离线 JWT / Token 解码器：拆分 header、payload、signature，可读化 exp/nbf/iat，不校验签名。 | ⭐ |
 | **UuidForge** | 离线 UUID / nanoid 生成器：v4 随机、v7 时间有序、v5 命名空间哈希（可复现）、批量生成与校验，数据永不离机。 | ⭐ |
 | **AuthForge** | 离线 TOTP 身份验证器：自写 SHA1/HMAC-SHA1/RFC6238，生成 2FA 动态验证码与密钥，数据永不离机。 | ⭐ |
 | **CryptoForge** | 本地 AES-GCM 加密与解密：Web Crypto + PBKDF2 派生密钥、随机盐与 IV 打包，敏感数据不出本机。 | ⭐ |
@@ -246,6 +261,7 @@
 | **XmlForge** | 离线 XML 工具：格式化缩进 / 结构校验（标签匹配闭合）。 |  |
 | **ChartForge** | 离线数据图表生成器：粘贴 CSV / JSON / TSV，生成柱状 / 折线 / 饼 / 环形 / 散点 / 面积图，Canvas 渲染并导出 PNG 与 SVG。 | ⭐ |
 | **SheetForge** | 离线迷你电子表格：A1 引用、区域、SUM / AVG / IF / ROUND 等公式引擎，依赖图重算与环检测，CSV 导入导出，零依赖。 | ⭐ |
+| **JsonPathForge** | 离线 JSONPath 查询器：自研解析器支持 $ . .. [*] [n] [切片] [?(@.x op v)] 过滤与正则匹配，实时高亮命中、输出规范化路径。 | ⭐ |
 
 ### 🎷️ 编码工具
 
