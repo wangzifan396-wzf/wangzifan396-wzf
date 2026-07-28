@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 134 款单文件工具 · 零依赖 · 本地优先
+### 138 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![134 Tools](https://img.shields.io/badge/工具-134%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![136 Repos](https://img.shields.io/badge/仓库-136%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![86 Flagship](https://img.shields.io/badge/旗舰-86%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![138 Tools](https://img.shields.io/badge/工具-138%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![140 Repos](https://img.shields.io/badge/仓库-140%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![90 Flagship](https://img.shields.io/badge/旗舰-90%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 134 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 138 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（86 款）
+## 旗舰工具（90 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -43,6 +43,10 @@
 <tr><td><b>BackoffForge</b></td><td>指数退避与抖动计算器：full/equal/decorrelated 策略，API 重试韧性。</td><td><a href="https://wangzifan396-wzf.github.io/BackoffForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/BackoffForge">src</a></td></tr>
 <tr><td><b>UnitForge</b></td><td>通用单位换算：长度/质量/温度/速度/数据/面积/体积/时间/能量/压强。</td><td><a href="https://wangzifan396-wzf.github.io/UnitForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/UnitForge">src</a></td></tr>
 <tr><td><b>ReadForge</b></td><td>文本可读性评分：Flesch Reading Ease 与 Flesch-Kincaid 年级，写作质量。</td><td><a href="https://wangzifan396-wzf.github.io/ReadForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ReadForge">src</a></td></tr>
+<tr><td><b>RateForge</b></td><td>限流算法模拟器：令牌桶与漏桶，refill/consume 纯函数推演，API 韧性设计。</td><td><a href="https://wangzifan396-wzf.github.io/RateForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/RateForge">src</a></td></tr>
+<tr><td><b>BloomForge</b></td><td>布隆过滤器实验室：FNV-1a 双重哈希，误判率公式推演，海量去重利器。</td><td><a href="https://wangzifan396-wzf.github.io/BloomForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/BloomForge">src</a></td></tr>
+<tr><td><b>HashRingForge</b></td><td>一致性哈希环：虚拟节点、增删节点迁移推演，分布式分片可视化。</td><td><a href="https://wangzifan396-wzf.github.io/HashRingForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/HashRingForge">src</a></td></tr>
+<tr><td><b>LzwForge</b></td><td>LZW 压缩实验室：字典压缩/解压全程可视，压缩率实时对比。</td><td><a href="https://wangzifan396-wzf.github.io/LzwForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/LzwForge">src</a></td></tr>
 <tr><td><b>DrawForge</b></td><td>离线白板：手绘风画笔、矩形、椭圆、箭头、文本，自由平移缩放，一键导出 PNG/SVG，自动本地保存。</td><td><a href="https://wangzifan396-wzf.github.io/DrawForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DrawForge">src</a></td></tr>
 <tr><td><b>GraphForge</b></td><td>离线 Mermaid 图表编辑器：写 DSL 实时预览，一键导出 SVG/PNG，零依赖、数据永不离机。</td><td><a href="https://wangzifan396-wzf.github.io/GraphForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/GraphForge">src</a></td></tr>
 <tr><td><b>APIForge</b></td><td>离线 REST / GraphQL 客户端：请求构建、Bearer/Basic 鉴权、响应计时与体积、历史记录，零依赖。</td><td><a href="https://wangzifan396-wzf.github.io/APIForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/APIForge">src</a></td></tr>
@@ -116,7 +120,7 @@
 
 ---
 
-## 全部工具按分类（134 款）
+## 全部工具按分类（138 款）
 
 ### 📝 文本处理
 
@@ -144,6 +148,8 @@
 | **ChangelogForge** | Conventional Commits 解析：提交信息分组生成 CHANGELOG，breaking/feat/fix 自动推断下一个 SemVer 版本。 | ⭐ |
 | **UtmForge** | UTM 参数构建、解析与校验，增长营销溯源。 | ⭐ |
 | **BackoffForge** | 指数退避与抖动计算器：full/equal/decorrelated 策略，API 重试韧性。 | ⭐ |
+| **RateForge** | 限流算法模拟器：令牌桶与漏桶，refill/consume 纯函数推演，API 韧性设计。 | ⭐ |
+| **HashRingForge** | 一致性哈希环：虚拟节点、增删节点迁移推演，分布式分片可视化。 | ⭐ |
 | **APIForge** | 离线 REST / GraphQL 客户端：请求构建、Bearer/Basic 鉴权、响应计时与体积、历史记录，零依赖。 | ⭐ |
 | **ChmodForge** | 离线 UNIX 权限计算器：八进制 ↔ rwx 符号互转，支持 setuid/setgid/sticky。 |  |
 | **DockerForge** | 离线 docker run → docker-compose.yml 转换：支持 30+ 参数，YAML 安全转义。 |  |
@@ -230,6 +236,7 @@
 | **ULIDForge** | ULID 生成与解码：Crockford Base32，48 位毫秒时间戳 + 80 位随机，可排序、可校验、可反解时间。 | ⭐ |
 | **HtmlEntityForge** | HTML 实体编解码：命名/十进制/十六进制，XSS 安全转义。 | ⭐ |
 | **HashForge** | 哈希摘要校验器：纯 JS SHA-256/SHA-1/MD5，软件完整性校验。 | ⭐ |
+| **LzwForge** | LZW 压缩实验室：字典压缩/解压全程可视，压缩率实时对比。 | ⭐ |
 | **JwtForge** | 离线 JWT / Token 解码器：拆分 header、payload、signature，可读化 exp/nbf/iat，不校验签名。 | ⭐ |
 | **UuidForge** | 离线 UUID / nanoid 生成器：v4 随机、v7 时间有序、v5 命名空间哈希（可复现）、批量生成与校验，数据永不离机。 | ⭐ |
 | **AuthForge** | 离线 TOTP 身份验证器：自写 SHA1/HMAC-SHA1/RFC6238，生成 2FA 动态验证码与密钥，数据永不离机。 | ⭐ |
@@ -246,6 +253,12 @@
 |---|---|:---:|
 | **PasswordForge** | 安全口令生成器：可配字符集、避开易混字符（Il1O0o）、每类至少含一个，实时熵估计。 | ⭐ |
 | **VaultForge** | 本地优先的零知识加密密码库：AES-GCM + PBKDF2，登录/卡片/笔记/身份全加密，数据永不出端。 | ⭐ |
+
+### 🎷️ 数据结构
+
+| 工具 | 说明 | 旗舰 |
+|---|---|:---:|
+| **BloomForge** | 布隆过滤器实验室：FNV-1a 双重哈希，误判率公式推演，海量去重利器。 | ⭐ |
 
 ### 🎷️ AI 效率
 
