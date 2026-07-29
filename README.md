@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 198 款单文件工具 · 零依赖 · 本地优先
+### 208 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![198 Tools](https://img.shields.io/badge/工具-198%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![200 Repos](https://img.shields.io/badge/仓库-200%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![150 Flagship](https://img.shields.io/badge/旗舰-150%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![208 Tools](https://img.shields.io/badge/工具-208%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![210 Repos](https://img.shields.io/badge/仓库-210%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![160 Flagship](https://img.shields.io/badge/旗舰-160%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 198 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 208 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（150 款）
+## 旗舰工具（160 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -86,6 +86,16 @@
 <tr><td><b>EloForge</b></td><td>Elo 等级分：期望胜率 + K 因子单局更新 + 批量对局推演。</td><td><a href="https://wangzifan396-wzf.github.io/EloForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/EloForge">src</a></td></tr>
 <tr><td><b>Base85Forge</b></td><td>Ascii85 + Z85 编解码：z 压缩、尾组截断、RFC 向量校验。</td><td><a href="https://wangzifan396-wzf.github.io/Base85Forge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/Base85Forge">src</a></td></tr>
 <tr><td><b>SoundexForge</b></td><td>Soundex + Metaphone 语音编码：人名纠错与同音异拼分组。</td><td><a href="https://wangzifan396-wzf.github.io/SoundexForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SoundexForge">src</a></td></tr>
+<tr><td><b>MindMapForge</b></td><td>思维导图：缩进大纲一键生成 SVG 导图，按层级着色。</td><td><a href="https://wangzifan396-wzf.github.io/MindMapForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MindMapForge">src</a></td></tr>
+<tr><td><b>WordCloudForge</b></td><td>词云生成：中英分词 + 螺旋布局 + AABB 碰撞，高频大字。</td><td><a href="https://wangzifan396-wzf.github.io/WordCloudForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/WordCloudForge">src</a></td></tr>
+<tr><td><b>SequenceForge</b></td><td>时序图：轻量 DSL 生成泳道时序图，箭头/自环/虚线回包。</td><td><a href="https://wangzifan396-wzf.github.io/SequenceForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SequenceForge">src</a></td></tr>
+<tr><td><b>GanttForge</b></td><td>甘特图：任务/工期/进度可视化，重叠检测 + 加权进度。</td><td><a href="https://wangzifan396-wzf.github.io/GanttForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/GanttForge">src</a></td></tr>
+<tr><td><b>LifeForge</b></td><td>生命游戏：B3/S23 元胞自动机，环面边界 + 经典模式识别。</td><td><a href="https://wangzifan396-wzf.github.io/LifeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/LifeForge">src</a></td></tr>
+<tr><td><b>SortForge</b></td><td>排序可视化：冒泡/插排/选排/快排/归并，比较次数 + 帧快照。</td><td><a href="https://wangzifan396-wzf.github.io/SortForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SortForge">src</a></td></tr>
+<tr><td><b>MazeForge</b></td><td>迷宫生成与求解：递归回溯完美迷宫 + BFS 最短路。</td><td><a href="https://wangzifan396-wzf.github.io/MazeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MazeForge">src</a></td></tr>
+<tr><td><b>NqueenForge</b></td><td>N 皇后：回溯求解 + 全部计数 + 独立校验器。</td><td><a href="https://wangzifan396-wzf.github.io/NqueenForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/NqueenForge">src</a></td></tr>
+<tr><td><b>StegForge</b></td><td>零宽隐写：把秘密消息藏进不可见字符，检测/提取/防篡改。</td><td><a href="https://wangzifan396-wzf.github.io/StegForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/StegForge">src</a></td></tr>
+<tr><td><b>FractalForge</b></td><td>分形生成：Mandelbrot 点阵 / Koch 曲线 / Sierpinski 三角。</td><td><a href="https://wangzifan396-wzf.github.io/FractalForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/FractalForge">src</a></td></tr>
 <tr><td><b>StateForge</b></td><td>有限状态机：定义/事件推演/可达性/死状态检测。</td><td><a href="https://wangzifan396-wzf.github.io/StateForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/StateForge">src</a></td></tr>
 <tr><td><b>MurmurForge</b></td><td>MurmurHash3 x86_32 哈希：UTF-8 输入、自定义种子、分桶路由。</td><td><a href="https://wangzifan396-wzf.github.io/MurmurForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MurmurForge">src</a></td></tr>
 <tr><td><b>Base32Forge</b></td><td>Base32 编解码：RFC4648 / Base32Hex / Crockford / z-base-32 四变体。</td><td><a href="https://wangzifan396-wzf.github.io/Base32Forge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/Base32Forge">src</a></td></tr>
@@ -180,7 +190,7 @@
 
 ---
 
-## 全部工具按分类（198 款）
+## 全部工具按分类（208 款）
 
 ### 📝 文本处理
 
@@ -257,6 +267,11 @@
 | **Graphite** | SVG 可视化节点编辑器：拖拽连线、自动布局，导出 SVG / PNG / JSON / Markdown。 |  |
 | **Chartify** | CSV / JSON 秒变 SVG 图表：柱状、折线、饼图，可导出矢量图，纯前端渲染。 |  |
 | **SparkForge** | 数据序列一键生成 SVG 迷你折线图与柱状图，纯函数返回 SVG 字符串。 | ⭐ |
+| **MindMapForge** | 思维导图：缩进大纲一键生成 SVG 导图，按层级着色。 | ⭐ |
+| **WordCloudForge** | 词云生成：中英分词 + 螺旋布局 + AABB 碰撞，高频大字。 | ⭐ |
+| **SequenceForge** | 时序图：轻量 DSL 生成泳道时序图，箭头/自环/虚线回包。 | ⭐ |
+| **GanttForge** | 甘特图：任务/工期/进度可视化，重叠检测 + 加权进度。 | ⭐ |
+| **LifeForge** | 生命游戏：B3/S23 元胞自动机，环面边界 + 经典模式识别。 | ⭐ |
 | **DrawForge** | 离线白板：手绘风画笔、矩形、椭圆、箭头、文本，自由平移缩放，一键导出 PNG/SVG，自动本地保存。 | ⭐ |
 | **GraphForge** | 离线 Mermaid 图表编辑器：写 DSL 实时预览，一键导出 SVG/PNG，零依赖、数据永不离机。 | ⭐ |
 | **MindForge** | 本地优先思维导图编辑器：结构化节点树、自动布局、分支配色，导出 PNG/SVG/JSON，离线可用。 | ⭐ |
@@ -279,6 +294,7 @@
 | **IntervalForge** | 区间合并/交集/最大不重叠调度/最少会议室，扫描线 + 贪心。 | ⭐ |
 | **CombForge** | BigInt 组合数学：nCr/nPr/阶乘/卡特兰数/帕斯卡三角，大数精确。 | ⭐ |
 | **EloForge** | Elo 等级分：期望胜率 + K 因子单局更新 + 批量对局推演。 | ⭐ |
+| **FractalForge** | 分形生成：Mandelbrot 点阵 / Koch 曲线 / Sierpinski 三角。 | ⭐ |
 | **GeohashForge** | Geohash 编解码 + 8 邻居 + 包围盒，地理索引经典网格。 | ⭐ |
 | **MatrixForge** | 线性代数：矩阵加法 / 乘法 / 转置 / 行列式 / 逆矩阵。 | ⭐ |
 | **BaseForge** | 进制转换增强版：大整数（BigInt）、小数部分、自定义字符表（base62/58）、2–36 进制。 |  |
@@ -325,6 +341,7 @@
 | **Base64Forge** | Base64 编解码：标准 / URL-safe 双字母表，UTF-8 安全，宽松解码。 | ⭐ |
 | **XxhashForge** | xxHash32 快速哈希：官方向量验证，种子可调，非加密校验。 | ⭐ |
 | **Base85Forge** | Ascii85 + Z85 编解码：z 压缩、尾组截断、RFC 向量校验。 | ⭐ |
+| **StegForge** | 零宽隐写：把秘密消息藏进不可见字符，检测/提取/防篡改。 | ⭐ |
 | **MurmurForge** | MurmurHash3 x86_32 哈希：UTF-8 输入、自定义种子、分桶路由。 | ⭐ |
 | **Base32Forge** | Base32 编解码：RFC4648 / Base32Hex / Crockford / z-base-32 四变体。 | ⭐ |
 | **VarintForge** | protobuf varint + ZigZag 变长整数编解码，hex 字节流互转。 | ⭐ |
@@ -368,6 +385,9 @@
 | **SegmentForge** | 线段树区间和/最值查询 + 懒标记区间加，O(log n)。 | ⭐ |
 | **AvlForge** | AVL 自平衡树：LL/RR/LR/RL 四旋转 + 平衡校验 + ASCII 树形。 | ⭐ |
 | **RabinForge** | Rabin-Karp 滚动哈希搜索：多模式 + 重叠命中 + 假阳性复核。 | ⭐ |
+| **SortForge** | 排序可视化：冒泡/插排/选排/快排/归并，比较次数 + 帧快照。 | ⭐ |
+| **MazeForge** | 迷宫生成与求解：递归回溯完美迷宫 + BFS 最短路。 | ⭐ |
+| **NqueenForge** | N 皇后：回溯求解 + 全部计数 + 独立校验器。 | ⭐ |
 | **MinhashForge** | MinHash 签名 + Jaccard 估计：文档去重的核心草图。 | ⭐ |
 | **SimhashForge** | SimHash 64 位指纹 + 海明距离，近重复文本检测。 | ⭐ |
 | **BktreeForge** | BK 树容错查找：编辑距离三角不等式剪枝，拼写纠错索引。 | ⭐ |
