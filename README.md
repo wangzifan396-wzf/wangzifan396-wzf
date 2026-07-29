@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 188 款单文件工具 · 零依赖 · 本地优先
+### 198 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![188 Tools](https://img.shields.io/badge/工具-188%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![190 Repos](https://img.shields.io/badge/仓库-190%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![140 Flagship](https://img.shields.io/badge/旗舰-140%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![198 Tools](https://img.shields.io/badge/工具-198%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![200 Repos](https://img.shields.io/badge/仓库-200%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![150 Flagship](https://img.shields.io/badge/旗舰-150%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 188 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 198 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（140 款）
+## 旗舰工具（150 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -77,6 +77,16 @@
 <tr><td><b>FenwickForge</b></td><td>树状数组：前缀和 / 区间和 / 单点更新 / 树上二分，O(log n)。</td><td><a href="https://wangzifan396-wzf.github.io/FenwickForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/FenwickForge">src</a></td></tr>
 <tr><td><b>XxhashForge</b></td><td>xxHash32 快速哈希：官方向量验证，种子可调，非加密校验。</td><td><a href="https://wangzifan396-wzf.github.io/XxhashForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/XxhashForge">src</a></td></tr>
 <tr><td><b>LinearForge</b></td><td>一元线性回归：最小二乘拟合、R²、残差与 RMSE、预测。</td><td><a href="https://wangzifan396-wzf.github.io/LinearForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/LinearForge">src</a></td></tr>
+<tr><td><b>AstarForge</b></td><td>A* 网格寻路：曼哈顿启发式 + 路径回溯 + 扩展节点统计。</td><td><a href="https://wangzifan396-wzf.github.io/AstarForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/AstarForge">src</a></td></tr>
+<tr><td><b>SegmentForge</b></td><td>线段树区间和/最值查询 + 懒标记区间加，O(log n)。</td><td><a href="https://wangzifan396-wzf.github.io/SegmentForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SegmentForge">src</a></td></tr>
+<tr><td><b>AvlForge</b></td><td>AVL 自平衡树：LL/RR/LR/RL 四旋转 + 平衡校验 + ASCII 树形。</td><td><a href="https://wangzifan396-wzf.github.io/AvlForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/AvlForge">src</a></td></tr>
+<tr><td><b>RabinForge</b></td><td>Rabin-Karp 滚动哈希搜索：多模式 + 重叠命中 + 假阳性复核。</td><td><a href="https://wangzifan396-wzf.github.io/RabinForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/RabinForge">src</a></td></tr>
+<tr><td><b>IntervalForge</b></td><td>区间合并/交集/最大不重叠调度/最少会议室，扫描线 + 贪心。</td><td><a href="https://wangzifan396-wzf.github.io/IntervalForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/IntervalForge">src</a></td></tr>
+<tr><td><b>CombForge</b></td><td>BigInt 组合数学：nCr/nPr/阶乘/卡特兰数/帕斯卡三角，大数精确。</td><td><a href="https://wangzifan396-wzf.github.io/CombForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CombForge">src</a></td></tr>
+<tr><td><b>EloForge</b></td><td>Elo 等级分：期望胜率 + K 因子单局更新 + 批量对局推演。</td><td><a href="https://wangzifan396-wzf.github.io/EloForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/EloForge">src</a></td></tr>
+<tr><td><b>Base85Forge</b></td><td>Ascii85 + Z85 编解码：z 压缩、尾组截断、RFC 向量校验。</td><td><a href="https://wangzifan396-wzf.github.io/Base85Forge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/Base85Forge">src</a></td></tr>
+<tr><td><b>SoundexForge</b></td><td>Soundex + Metaphone 语音编码：人名纠错与同音异拼分组。</td><td><a href="https://wangzifan396-wzf.github.io/SoundexForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SoundexForge">src</a></td></tr>
+<tr><td><b>StateForge</b></td><td>有限状态机：定义/事件推演/可达性/死状态检测。</td><td><a href="https://wangzifan396-wzf.github.io/StateForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/StateForge">src</a></td></tr>
 <tr><td><b>MurmurForge</b></td><td>MurmurHash3 x86_32 哈希：UTF-8 输入、自定义种子、分桶路由。</td><td><a href="https://wangzifan396-wzf.github.io/MurmurForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MurmurForge">src</a></td></tr>
 <tr><td><b>Base32Forge</b></td><td>Base32 编解码：RFC4648 / Base32Hex / Crockford / z-base-32 四变体。</td><td><a href="https://wangzifan396-wzf.github.io/Base32Forge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/Base32Forge">src</a></td></tr>
 <tr><td><b>VarintForge</b></td><td>protobuf varint + ZigZag 变长整数编解码，hex 字节流互转。</td><td><a href="https://wangzifan396-wzf.github.io/VarintForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/VarintForge">src</a></td></tr>
@@ -170,7 +180,7 @@
 
 ---
 
-## 全部工具按分类（188 款）
+## 全部工具按分类（198 款）
 
 ### 📝 文本处理
 
@@ -184,6 +194,7 @@
 | **MailForge** | 邮箱语法校验、解析与角色识别。 | ⭐ |
 | **ReadForge** | 文本可读性评分：Flesch Reading Ease 与 Flesch-Kincaid 年级，写作质量。 | ⭐ |
 | **MarkdownForge** | Markdown 转 HTML 编译器：标题/列表/代码块/引用/链接，转义防注入。 | ⭐ |
+| **SoundexForge** | Soundex + Metaphone 语音编码：人名纠错与同音异拼分组。 | ⭐ |
 | **DistForge** | 字符串距离六合一：Levenshtein/Damerau/Hamming/Jaro-Winkler/Dice。 | ⭐ |
 | **DiffForge** | 离线文本差异对比：基于 LCS 的行级 diff + 并排视图，统计增删，内置逐字符 inline diff。 | ⭐ |
 
@@ -207,6 +218,7 @@
 | **BreakerForge** | 熔断器 Circuit Breaker：closed/open/half-open 状态机，保护下游服务。 | ⭐ |
 | **ArgForge** | 命令行参数解析器：flags/options/positionals，类型推断与默认值。 | ⭐ |
 | **ExprForge** | 表达式求值器：调度场算法 + RPN，变量 / 函数，无 eval。 | ⭐ |
+| **StateForge** | 有限状态机：定义/事件推演/可达性/死状态检测。 | ⭐ |
 | **BenchForge** | 基准统计：mean/median/MAD/P95 + 离群点检测 + A/B 速度比。 | ⭐ |
 | **QsForge** | URL 查询串：解析 / 序列化，重复键转数组，解码空格。 | ⭐ |
 | **APIForge** | 离线 REST / GraphQL 客户端：请求构建、Bearer/Basic 鉴权、响应计时与体积、历史记录，零依赖。 | ⭐ |
@@ -264,6 +276,9 @@
 | **TokenForge** | LLM Token 估算与成本计算器：确定性子词分词 + 多模型单价表。 | ⭐ |
 | **PrngForge** | 可复现伪随机：mulberry32 / sfc32 / xoshiro128**，种子→序列/洗牌。 | ⭐ |
 | **LinearForge** | 一元线性回归：最小二乘拟合、R²、残差与 RMSE、预测。 | ⭐ |
+| **IntervalForge** | 区间合并/交集/最大不重叠调度/最少会议室，扫描线 + 贪心。 | ⭐ |
+| **CombForge** | BigInt 组合数学：nCr/nPr/阶乘/卡特兰数/帕斯卡三角，大数精确。 | ⭐ |
+| **EloForge** | Elo 等级分：期望胜率 + K 因子单局更新 + 批量对局推演。 | ⭐ |
 | **GeohashForge** | Geohash 编解码 + 8 邻居 + 包围盒，地理索引经典网格。 | ⭐ |
 | **MatrixForge** | 线性代数：矩阵加法 / 乘法 / 转置 / 行列式 / 逆矩阵。 | ⭐ |
 | **BaseForge** | 进制转换增强版：大整数（BigInt）、小数部分、自定义字符表（base62/58）、2–36 进制。 |  |
@@ -309,6 +324,7 @@
 | **Sha3Forge** | SHA-3 / Keccak 哈希：自研 Keccak-f[1600]，SHA3-256/512 与 keccak256。 | ⭐ |
 | **Base64Forge** | Base64 编解码：标准 / URL-safe 双字母表，UTF-8 安全，宽松解码。 | ⭐ |
 | **XxhashForge** | xxHash32 快速哈希：官方向量验证，种子可调，非加密校验。 | ⭐ |
+| **Base85Forge** | Ascii85 + Z85 编解码：z 压缩、尾组截断、RFC 向量校验。 | ⭐ |
 | **MurmurForge** | MurmurHash3 x86_32 哈希：UTF-8 输入、自定义种子、分桶路由。 | ⭐ |
 | **Base32Forge** | Base32 编解码：RFC4648 / Base32Hex / Crockford / z-base-32 四变体。 | ⭐ |
 | **VarintForge** | protobuf varint + ZigZag 变长整数编解码，hex 字节流互转。 | ⭐ |
@@ -348,6 +364,10 @@
 | **KmpForge** | KMP 字符串匹配：失配表可视化，线性时间多次命中与高亮。 | ⭐ |
 | **TarjanForge** | Tarjan 强连通分量：一次 DFS 求 SCC，缩点 DAG 与环检测。 | ⭐ |
 | **FenwickForge** | 树状数组：前缀和 / 区间和 / 单点更新 / 树上二分，O(log n)。 | ⭐ |
+| **AstarForge** | A* 网格寻路：曼哈顿启发式 + 路径回溯 + 扩展节点统计。 | ⭐ |
+| **SegmentForge** | 线段树区间和/最值查询 + 懒标记区间加，O(log n)。 | ⭐ |
+| **AvlForge** | AVL 自平衡树：LL/RR/LR/RL 四旋转 + 平衡校验 + ASCII 树形。 | ⭐ |
+| **RabinForge** | Rabin-Karp 滚动哈希搜索：多模式 + 重叠命中 + 假阳性复核。 | ⭐ |
 | **MinhashForge** | MinHash 签名 + Jaccard 估计：文档去重的核心草图。 | ⭐ |
 | **SimhashForge** | SimHash 64 位指纹 + 海明距离，近重复文本检测。 | ⭐ |
 | **BktreeForge** | BK 树容错查找：编辑距离三角不等式剪枝，拼写纠错索引。 | ⭐ |
