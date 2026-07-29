@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 208 款单文件工具 · 零依赖 · 本地优先
+### 218 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![208 Tools](https://img.shields.io/badge/工具-208%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![210 Repos](https://img.shields.io/badge/仓库-210%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![160 Flagship](https://img.shields.io/badge/旗舰-160%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![218 Tools](https://img.shields.io/badge/工具-218%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![220 Repos](https://img.shields.io/badge/仓库-220%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![170 Flagship](https://img.shields.io/badge/旗舰-170%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 208 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 218 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（160 款）
+## 旗舰工具（170 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -95,6 +95,16 @@
 <tr><td><b>MazeForge</b></td><td>迷宫生成与求解：递归回溯完美迷宫 + BFS 最短路。</td><td><a href="https://wangzifan396-wzf.github.io/MazeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MazeForge">src</a></td></tr>
 <tr><td><b>NqueenForge</b></td><td>N 皇后：回溯求解 + 全部计数 + 独立校验器。</td><td><a href="https://wangzifan396-wzf.github.io/NqueenForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/NqueenForge">src</a></td></tr>
 <tr><td><b>StegForge</b></td><td>零宽隐写：把秘密消息藏进不可见字符，检测/提取/防篡改。</td><td><a href="https://wangzifan396-wzf.github.io/StegForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/StegForge">src</a></td></tr>
+<tr><td><b>TuringForge</b></td><td>图灵机：用 DSL 定义纸带/状态/转移，单步或连续推演，可视化磁带与读写头。</td><td><a href="https://wangzifan396-wzf.github.io/TuringForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/TuringForge">src</a></td></tr>
+<tr><td><b>LsystemForge</b></td><td>L 系统分形：内置 Koch / 龙曲线 / Plants / Sierpinski，可调迭代次数生成 SVG。</td><td><a href="https://wangzifan396-wzf.github.io/LsystemForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/LsystemForge">src</a></td></tr>
+<tr><td><b>SudokuForge</b></td><td>数独：随机生成保证唯一解的题目，回溯求解，实时校验冲突。</td><td><a href="https://wangzifan396-wzf.github.io/SudokuForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SudokuForge">src</a></td></tr>
+<tr><td><b>GomokuForge</b></td><td>五子棋：15×15 棋盘，启发式 AI 先攻后守，自动判定五连胜负。</td><td><a href="https://wangzifan396-wzf.github.io/GomokuForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/GomokuForge">src</a></td></tr>
+<tr><td><b>NoiseForge</b></td><td>Perlin 噪声：生成 2D 噪声场，灰度或地形色带渲染，可调缩放与种子，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/NoiseForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/NoiseForge">src</a></td></tr>
+<tr><td><b>BezierForge</b></td><td>贝塞尔曲线：可视化编辑三次贝塞尔控制点，实时预览曲线，导出 SVG path。</td><td><a href="https://wangzifan396-wzf.github.io/BezierForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/BezierForge">src</a></td></tr>
+<tr><td><b>JsonGraphForge</b></td><td>JSON 图谱：把 JSON 结构渲染为节点-连线树图，直观看清嵌套与键关系。</td><td><a href="https://wangzifan396-wzf.github.io/JsonGraphForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/JsonGraphForge">src</a></td></tr>
+<tr><td><b>RegexRailForge</b></td><td>正则铁路图：把正则解析为铁路图，直观看到拼接/选择/量词的语法结构。</td><td><a href="https://wangzifan396-wzf.github.io/RegexRailForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/RegexRailForge">src</a></td></tr>
+<tr><td><b>TetrisForge</b></td><td>俄罗斯方块：纯逻辑内核（碰撞/旋转/消行）+ Canvas 游戏，方向键操作。</td><td><a href="https://wangzifan396-wzf.github.io/TetrisForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/TetrisForge">src</a></td></tr>
+<tr><td><b>SnakeForge</b></td><td>贪吃蛇：纯逻辑内核（移动/进食/墙撞/自撞）+ Canvas 游戏，方向键操作。</td><td><a href="https://wangzifan396-wzf.github.io/SnakeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SnakeForge">src</a></td></tr>
 <tr><td><b>FractalForge</b></td><td>分形生成：Mandelbrot 点阵 / Koch 曲线 / Sierpinski 三角。</td><td><a href="https://wangzifan396-wzf.github.io/FractalForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/FractalForge">src</a></td></tr>
 <tr><td><b>StateForge</b></td><td>有限状态机：定义/事件推演/可达性/死状态检测。</td><td><a href="https://wangzifan396-wzf.github.io/StateForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/StateForge">src</a></td></tr>
 <tr><td><b>MurmurForge</b></td><td>MurmurHash3 x86_32 哈希：UTF-8 输入、自定义种子、分桶路由。</td><td><a href="https://wangzifan396-wzf.github.io/MurmurForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MurmurForge">src</a></td></tr>
@@ -190,7 +200,7 @@
 
 ---
 
-## 全部工具按分类（208 款）
+## 全部工具按分类（218 款）
 
 ### 📝 文本处理
 
@@ -228,6 +238,7 @@
 | **BreakerForge** | 熔断器 Circuit Breaker：closed/open/half-open 状态机，保护下游服务。 | ⭐ |
 | **ArgForge** | 命令行参数解析器：flags/options/positionals，类型推断与默认值。 | ⭐ |
 | **ExprForge** | 表达式求值器：调度场算法 + RPN，变量 / 函数，无 eval。 | ⭐ |
+| **RegexRailForge** | 正则铁路图：把正则解析为铁路图，直观看到拼接/选择/量词的语法结构。 | ⭐ |
 | **StateForge** | 有限状态机：定义/事件推演/可达性/死状态检测。 | ⭐ |
 | **BenchForge** | 基准统计：mean/median/MAD/P95 + 离群点检测 + A/B 速度比。 | ⭐ |
 | **QsForge** | URL 查询串：解析 / 序列化，重复键转数组，解码空格。 | ⭐ |
@@ -272,6 +283,9 @@
 | **SequenceForge** | 时序图：轻量 DSL 生成泳道时序图，箭头/自环/虚线回包。 | ⭐ |
 | **GanttForge** | 甘特图：任务/工期/进度可视化，重叠检测 + 加权进度。 | ⭐ |
 | **LifeForge** | 生命游戏：B3/S23 元胞自动机，环面边界 + 经典模式识别。 | ⭐ |
+| **TuringForge** | 图灵机：用 DSL 定义纸带/状态/转移，单步或连续推演，可视化磁带与读写头。 | ⭐ |
+| **LsystemForge** | L 系统分形：内置 Koch / 龙曲线 / Plants / Sierpinski，可调迭代次数生成 SVG。 | ⭐ |
+| **JsonGraphForge** | JSON 图谱：把 JSON 结构渲染为节点-连线树图，直观看清嵌套与键关系。 | ⭐ |
 | **DrawForge** | 离线白板：手绘风画笔、矩形、椭圆、箭头、文本，自由平移缩放，一键导出 PNG/SVG，自动本地保存。 | ⭐ |
 | **GraphForge** | 离线 Mermaid 图表编辑器：写 DSL 实时预览，一键导出 SVG/PNG，零依赖、数据永不离机。 | ⭐ |
 | **MindForge** | 本地优先思维导图编辑器：结构化节点树、自动布局、分支配色，导出 PNG/SVG/JSON，离线可用。 | ⭐ |
@@ -294,6 +308,7 @@
 | **IntervalForge** | 区间合并/交集/最大不重叠调度/最少会议室，扫描线 + 贪心。 | ⭐ |
 | **CombForge** | BigInt 组合数学：nCr/nPr/阶乘/卡特兰数/帕斯卡三角，大数精确。 | ⭐ |
 | **EloForge** | Elo 等级分：期望胜率 + K 因子单局更新 + 批量对局推演。 | ⭐ |
+| **NoiseForge** | Perlin 噪声：生成 2D 噪声场，灰度或地形色带渲染，可调缩放与种子，离线可用。 | ⭐ |
 | **FractalForge** | 分形生成：Mandelbrot 点阵 / Koch 曲线 / Sierpinski 三角。 | ⭐ |
 | **GeohashForge** | Geohash 编解码 + 8 邻居 + 包围盒，地理索引经典网格。 | ⭐ |
 | **MatrixForge** | 线性代数：矩阵加法 / 乘法 / 转置 / 行列式 / 逆矩阵。 | ⭐ |
@@ -320,6 +335,7 @@
 | **CSSKit** | CSS 游乐场：渐变、box-shadow、cubic-bezier 缓动曲线、Flex 布局，实时预览可复制。 |  |
 | **ColorForge** | 颜色工作台：HEX/RGB/HSL 互转、和谐配色生成、WCAG 对比度检测与实时预览。 |  |
 | **IconForge** | 线性图标工作台：17 款描边图标、可调描边色/粗细/尺寸/填充，一键复制或下载 SVG。 |  |
+| **BezierForge** | 贝塞尔曲线：可视化编辑三次贝塞尔控制点，实时预览曲线，导出 SVG path。 | ⭐ |
 | **FontForge** | 字体预览与排版样张工作台：拖入字体即时渲染，调节字号 / 行高 / 字距 / 字重，字形表与可移植样张导出，本地优先。 | ⭐ |
 | **ImageForge** | 离线图片编辑器：裁剪、缩放、旋转翻转、亮度 / 对比度 / 饱和度 / 色相 / 模糊调整、滤镜，导出 PNG/JPEG/WebP，零上传。 | ⭐ |
 | **ColorBlindForge** | 离线色觉障碍模拟器：Machado 三型 + 全色盲模拟，sRGB↔Lab 转换、WCAG 对比度与 ΔE 审计，调色板无障碍检查。 | ⭐ |
@@ -388,6 +404,10 @@
 | **SortForge** | 排序可视化：冒泡/插排/选排/快排/归并，比较次数 + 帧快照。 | ⭐ |
 | **MazeForge** | 迷宫生成与求解：递归回溯完美迷宫 + BFS 最短路。 | ⭐ |
 | **NqueenForge** | N 皇后：回溯求解 + 全部计数 + 独立校验器。 | ⭐ |
+| **SudokuForge** | 数独：随机生成保证唯一解的题目，回溯求解，实时校验冲突。 | ⭐ |
+| **GomokuForge** | 五子棋：15×15 棋盘，启发式 AI 先攻后守，自动判定五连胜负。 | ⭐ |
+| **TetrisForge** | 俄罗斯方块：纯逻辑内核（碰撞/旋转/消行）+ Canvas 游戏，方向键操作。 | ⭐ |
+| **SnakeForge** | 贪吃蛇：纯逻辑内核（移动/进食/墙撞/自撞）+ Canvas 游戏，方向键操作。 | ⭐ |
 | **MinhashForge** | MinHash 签名 + Jaccard 估计：文档去重的核心草图。 | ⭐ |
 | **SimhashForge** | SimHash 64 位指纹 + 海明距离，近重复文本检测。 | ⭐ |
 | **BktreeForge** | BK 树容错查找：编辑距离三角不等式剪枝，拼写纠错索引。 | ⭐ |
