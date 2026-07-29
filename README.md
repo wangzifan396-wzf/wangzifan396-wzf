@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 148 款单文件工具 · 零依赖 · 本地优先
+### 158 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![148 Tools](https://img.shields.io/badge/工具-148%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![150 Repos](https://img.shields.io/badge/仓库-150%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![100 Flagship](https://img.shields.io/badge/旗舰-100%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![158 Tools](https://img.shields.io/badge/工具-158%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![160 Repos](https://img.shields.io/badge/仓库-160%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![110 Flagship](https://img.shields.io/badge/旗舰-110%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 148 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 158 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（100 款）
+## 旗舰工具（110 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -57,6 +57,16 @@
 <tr><td><b>MerkleForge</b></td><td>默克尔树构建与证明器：SHA-256 树 + 包含性证明 + 校验。</td><td><a href="https://wangzifan396-wzf.github.io/MerkleForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MerkleForge">src</a></td></tr>
 <tr><td><b>GeoForge</b></td><td>地理距离计算器：Haversine 大圆距离 + 方位角 + 目的地 + 包围盒。</td><td><a href="https://wangzifan396-wzf.github.io/GeoForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/GeoForge">src</a></td></tr>
 <tr><td><b>CuckooForge</b></td><td>布谷鸟过滤器：可删除的概率型成员判定，指纹 + 双桶 + 踢出重放。</td><td><a href="https://wangzifan396-wzf.github.io/CuckooForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CuckooForge">src</a></td></tr>
+<tr><td><b>TokenForge</b></td><td>LLM Token 估算与成本计算器：确定性子词分词 + 多模型单价表。</td><td><a href="https://wangzifan396-wzf.github.io/TokenForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/TokenForge">src</a></td></tr>
+<tr><td><b>SecretForge</b></td><td>密钥/凭据扫描器：正则模式 + 香农熵检测，定位代码中的高危泄露。</td><td><a href="https://wangzifan396-wzf.github.io/SecretForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SecretForge">src</a></td></tr>
+<tr><td><b>HllForge</b></td><td>HyperLogLog 基数估计：用极少内存估算大规模去重计数（至多高估）。</td><td><a href="https://wangzifan396-wzf.github.io/HllForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/HllForge">src</a></td></tr>
+<tr><td><b>SketchForge</b></td><td>Count-Min Sketch 频次草图：流式频率估计，至多高估。</td><td><a href="https://wangzifan396-wzf.github.io/SketchForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SketchForge">src</a></td></tr>
+<tr><td><b>TrieForge</b></td><td>前缀树 Trie：自动补全、词表检索、前缀计数，零依赖纯函数。</td><td><a href="https://wangzifan396-wzf.github.io/TrieForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/TrieForge">src</a></td></tr>
+<tr><td><b>LruForge</b></td><td>LRU 缓存：容量受限的 Least-Recently-Used 淘汰，Map 实现 O(1)。</td><td><a href="https://wangzifan396-wzf.github.io/LruForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/LruForge">src</a></td></tr>
+<tr><td><b>UnionForge</b></td><td>并查集 Disjoint Set：连通分量、动态连通性、Kruskal 最小生成树。</td><td><a href="https://wangzifan396-wzf.github.io/UnionForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/UnionForge">src</a></td></tr>
+<tr><td><b>BitsetForge</b></td><td>位集合 Bitset：紧凑位运算、集合交并差、成员判定与位计数。</td><td><a href="https://wangzifan396-wzf.github.io/BitsetForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/BitsetForge">src</a></td></tr>
+<tr><td><b>BreakerForge</b></td><td>熔断器 Circuit Breaker：closed/open/half-open 状态机，保护下游服务。</td><td><a href="https://wangzifan396-wzf.github.io/BreakerForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/BreakerForge">src</a></td></tr>
+<tr><td><b>ArgForge</b></td><td>命令行参数解析器：flags/options/positionals，类型推断与默认值。</td><td><a href="https://wangzifan396-wzf.github.io/ArgForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ArgForge">src</a></td></tr>
 <tr><td><b>DrawForge</b></td><td>离线白板：手绘风画笔、矩形、椭圆、箭头、文本，自由平移缩放，一键导出 PNG/SVG，自动本地保存。</td><td><a href="https://wangzifan396-wzf.github.io/DrawForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DrawForge">src</a></td></tr>
 <tr><td><b>GraphForge</b></td><td>离线 Mermaid 图表编辑器：写 DSL 实时预览，一键导出 SVG/PNG，零依赖、数据永不离机。</td><td><a href="https://wangzifan396-wzf.github.io/GraphForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/GraphForge">src</a></td></tr>
 <tr><td><b>APIForge</b></td><td>离线 REST / GraphQL 客户端：请求构建、Bearer/Basic 鉴权、响应计时与体积、历史记录，零依赖。</td><td><a href="https://wangzifan396-wzf.github.io/APIForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/APIForge">src</a></td></tr>
@@ -130,7 +140,7 @@
 
 ---
 
-## 全部工具按分类（148 款）
+## 全部工具按分类（158 款）
 
 ### 📝 文本处理
 
@@ -163,6 +173,8 @@
 | **HashRingForge** | 一致性哈希环：虚拟节点、增删节点迁移推演，分布式分片可视化。 | ⭐ |
 | **TopoForge** | 拓扑排序 / DAG 编排器：Kahn 算法 + 并行批次分层 + 环检测。 | ⭐ |
 | **FuzzyForge** | 模糊匹配打分器：fzf 风格子序列匹配 + 边界加分 + 结果排序。 | ⭐ |
+| **BreakerForge** | 熔断器 Circuit Breaker：closed/open/half-open 状态机，保护下游服务。 | ⭐ |
+| **ArgForge** | 命令行参数解析器：flags/options/positionals，类型推断与默认值。 | ⭐ |
 | **APIForge** | 离线 REST / GraphQL 客户端：请求构建、Bearer/Basic 鉴权、响应计时与体积、历史记录，零依赖。 | ⭐ |
 | **ChmodForge** | 离线 UNIX 权限计算器：八进制 ↔ rwx 符号互转，支持 setuid/setgid/sticky。 |  |
 | **DockerForge** | 离线 docker run → docker-compose.yml 转换：支持 30+ 参数，YAML 安全转义。 |  |
@@ -215,6 +227,7 @@
 | **VectorForge** | 向量相似度计算器：余弦/欧氏/曼哈顿/点积 + Top-K 检索，RAG 向量度量。 | ⭐ |
 | **PercentileForge** | 延迟分位数分析器：p50/p90/p95/p99 插值 + 标准差 + ASCII 直方图。 | ⭐ |
 | **GeoForge** | 地理距离计算器：Haversine 大圆距离 + 方位角 + 目的地 + 包围盒。 | ⭐ |
+| **TokenForge** | LLM Token 估算与成本计算器：确定性子词分词 + 多模型单价表。 | ⭐ |
 | **BaseForge** | 进制转换增强版：大整数（BigInt）、小数部分、自定义字符表（base62/58）、2–36 进制。 |  |
 | **TimeForge** | 时间工具箱：Unix 时间戳 ⇄ 日期互转（自动识别秒/毫秒），6 时区对照，日期差与人性化时长计算。 |  |
 | **EnvForge** | 离线 .env 解析 / 对比 / 校验器：变量引用展开、两份配置差异、必填项校验，纯本地。 |  |
@@ -254,6 +267,7 @@
 | **HashForge** | 哈希摘要校验器：纯 JS SHA-256/SHA-1/MD5，软件完整性校验。 | ⭐ |
 | **LzwForge** | LZW 压缩实验室：字典压缩/解压全程可视，压缩率实时对比。 | ⭐ |
 | **HmacForge** | HMAC-SHA256 签名器：RFC 4231 向量验证，API 签名 / Webhook 校验。 | ⭐ |
+| **SecretForge** | 密钥/凭据扫描器：正则模式 + 香农熵检测，定位代码中的高危泄露。 | ⭐ |
 | **JwtForge** | 离线 JWT / Token 解码器：拆分 header、payload、signature，可读化 exp/nbf/iat，不校验签名。 | ⭐ |
 | **UuidForge** | 离线 UUID / nanoid 生成器：v4 随机、v7 时间有序、v5 命名空间哈希（可复现）、批量生成与校验，数据永不离机。 | ⭐ |
 | **AuthForge** | 离线 TOTP 身份验证器：自写 SHA1/HMAC-SHA1/RFC6238，生成 2FA 动态验证码与密钥，数据永不离机。 | ⭐ |
@@ -278,6 +292,12 @@
 | **BloomForge** | 布隆过滤器实验室：FNV-1a 双重哈希，误判率公式推演，海量去重利器。 | ⭐ |
 | **MerkleForge** | 默克尔树构建与证明器：SHA-256 树 + 包含性证明 + 校验。 | ⭐ |
 | **CuckooForge** | 布谷鸟过滤器：可删除的概率型成员判定，指纹 + 双桶 + 踢出重放。 | ⭐ |
+| **HllForge** | HyperLogLog 基数估计：用极少内存估算大规模去重计数（至多高估）。 | ⭐ |
+| **SketchForge** | Count-Min Sketch 频次草图：流式频率估计，至多高估。 | ⭐ |
+| **TrieForge** | 前缀树 Trie：自动补全、词表检索、前缀计数，零依赖纯函数。 | ⭐ |
+| **LruForge** | LRU 缓存：容量受限的 Least-Recently-Used 淘汰，Map 实现 O(1)。 | ⭐ |
+| **UnionForge** | 并查集 Disjoint Set：连通分量、动态连通性、Kruskal 最小生成树。 | ⭐ |
+| **BitsetForge** | 位集合 Bitset：紧凑位运算、集合交并差、成员判定与位计数。 | ⭐ |
 
 ### 🎷️ 数据工具
 
