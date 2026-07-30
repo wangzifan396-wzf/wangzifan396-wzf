@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 258 款单文件工具 · 零依赖 · 本地优先
+### 268 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![258 Tools](https://img.shields.io/badge/工具-258%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![260 Repos](https://img.shields.io/badge/仓库-260%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![210 Flagship](https://img.shields.io/badge/旗舰-210%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![268 Tools](https://img.shields.io/badge/工具-268%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![270 Repos](https://img.shields.io/badge/仓库-270%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![220 Flagship](https://img.shields.io/badge/旗舰-220%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 258 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 268 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（210 款）
+## 旗舰工具（220 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -141,6 +141,16 @@
 <tr><td><b>WfcForge</b></td><td>波函数坍缩（WFC）地形生成器：海/滩/草/林/山邻接约束，最小熵坍缩 + 约束传播，种子可复现，SVG 网格渲染，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/WfcForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/WfcForge">src</a></td></tr>
 <tr><td><b>PlotForge</b></td><td>函数绘图器：输入 sin(x)*x 等表达式即渲染 SVG 曲线，递归下降解析器支持 + - * / ^ 与常用函数，多曲线叠加，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PlotForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PlotForge">src</a></td></tr>
 <tr><td><b>TimelineForge</b></td><td>时间线生成器：「日期 | 标题 | 描述」一行一事件，自动排序后渲染左右交替时间线 SVG，支持年月日三种粒度，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/TimelineForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/TimelineForge">src</a></td></tr>
+<tr><td><b>StatForge</b></td><td>统计与线性回归：均值/中位数/众数、方差/标准差、四分位与 IQR、线性拟合（斜率/截距/R²），一键出直方图，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/StatForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/StatForge">src</a></td></tr>
+<tr><td><b>LoanForge</b></td><td>贷款本息摊销：输入本金、年利率与期限，输出月供、总利息与逐期还款计划表，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/LoanForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/LoanForge">src</a></td></tr>
+<tr><td><b>SplitForge</b></td><td>聚餐 AA 分摊：逐条录入账单，自动加计小费/税费/折扣，按人数均摊出每人应付，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/SplitForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SplitForge">src</a></td></tr>
+<tr><td><b>BmiForge</b></td><td>BMI 与健康区间：输入身高体重得 BMI 与中国成人标准分级，并给出健康体重范围与体脂率估算，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/BmiForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/BmiForge">src</a></td></tr>
+<tr><td><b>StrengthForge</b></td><td>密码强度估计：按字符集熵估算强度等级与暴力破解耗时，识别常见弱口令与模式，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/StrengthForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/StrengthForge">src</a></td></tr>
+<tr><td><b>HashIdForge</b></td><td>哈希类型识别：根据长度、字符集与特征前缀判断 md5/sha 系列/bcrypt/argon2/ntlm 等，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/HashIdForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/HashIdForge">src</a></td></tr>
+<tr><td><b>WorldClockForge</b></td><td>世界时钟：并排显示多个时区当前时间，自动算时差，基于 Intl 离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/WorldClockForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/WorldClockForge">src</a></td></tr>
+<tr><td><b>CountdownForge</b></td><td>多倒计时：添加多个目标时刻，实时显示剩余天/时/分/秒，本地保存，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/CountdownForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CountdownForge">src</a></td></tr>
+<tr><td><b>RecipeForge</b></td><td>食谱管理：录入配料一键按份量缩放，本地保存多个食谱，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/RecipeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/RecipeForge">src</a></td></tr>
+<tr><td><b>ExpenseForge</b></td><td>记账与预算：录入收支、按分类与月份汇总，本地保存，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/ExpenseForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ExpenseForge">src</a></td></tr>
 <tr><td><b>MetronomeForge</b></td><td>节拍器：可调 BPM 与拍号，支持重音与前瞻调度内核，Tap 测速，辅助练习节奏，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/MetronomeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MetronomeForge">src</a></td></tr>
 <tr><td><b>PaletteForge</b></td><td>配色生成器：色相旋转派生互补/三角/邻近/单色方案，WCAG 对比度校验，点选即复制，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PaletteForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PaletteForge">src</a></td></tr>
 <tr><td><b>ChordForge</b></td><td>和弦与音阶：和弦识别、音阶构建、音名解析与异名同音归一。</td><td><a href="https://wangzifan396-wzf.github.io/ChordForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ChordForge">src</a></td></tr>
@@ -240,7 +250,7 @@
 
 ---
 
-## 全部工具按分类（258 款）
+## 全部工具按分类（268 款）
 
 ### 📝 文本处理
 
@@ -377,6 +387,11 @@
 | **KnapsackForge** | 0/1 背包：动态规划最优选择，贪心对照，回溯选取物品。 | ⭐ |
 | **DocxForge** | 纯前端 Word 生成器：粘贴文本即可打包为标准 .docx（最小 OOXML + 无压缩 ZIP，自实现 CRC32），支持标题行，零依赖离线可用。 | ⭐ |
 | **PomodoroForge** | 番茄钟：纯函数状态机驱动（工作/短休/长休自动轮转，每 4 个番茄进长休），完成统计与进度环，离线可用。 | ⭐ |
+| **LoanForge** | 贷款本息摊销：输入本金、年利率与期限，输出月供、总利息与逐期还款计划表，离线可用。 | ⭐ |
+| **SplitForge** | 聚餐 AA 分摊：逐条录入账单，自动加计小费/税费/折扣，按人数均摊出每人应付，离线可用。 | ⭐ |
+| **BmiForge** | BMI 与健康区间：输入身高体重得 BMI 与中国成人标准分级，并给出健康体重范围与体脂率估算，离线可用。 | ⭐ |
+| **WorldClockForge** | 世界时钟：并排显示多个时区当前时间，自动算时差，基于 Intl 离线可用。 | ⭐ |
+| **CountdownForge** | 多倒计时：添加多个目标时刻，实时显示剩余天/时/分/秒，本地保存，离线可用。 | ⭐ |
 | **MetronomeForge** | 节拍器：可调 BPM 与拍号，支持重音与前瞻调度内核，Tap 测速，辅助练习节奏，离线可用。 | ⭐ |
 | **ChordForge** | 和弦与音阶：和弦识别、音阶构建、音名解析与异名同音归一。 | ⭐ |
 | **FractalForge** | 分形生成：Mandelbrot 点阵 / Koch 曲线 / Sierpinski 三角。 | ⭐ |
@@ -436,6 +451,7 @@
 | **XxhashForge** | xxHash32 快速哈希：官方向量验证，种子可调，非加密校验。 | ⭐ |
 | **Base85Forge** | Ascii85 + Z85 编解码：z 压缩、尾组截断、RFC 向量校验。 | ⭐ |
 | **StegForge** | 零宽隐写：把秘密消息藏进不可见字符，检测/提取/防篡改。 | ⭐ |
+| **HashIdForge** | 哈希类型识别：根据长度、字符集与特征前缀判断 md5/sha 系列/bcrypt/argon2/ntlm 等，离线可用。 | ⭐ |
 | **MurmurForge** | MurmurHash3 x86_32 哈希：UTF-8 输入、自定义种子、分桶路由。 | ⭐ |
 | **Base32Forge** | Base32 编解码：RFC4648 / Base32Hex / Crockford / z-base-32 四变体。 | ⭐ |
 | **VarintForge** | protobuf varint + ZigZag 变长整数编解码，hex 字节流互转。 | ⭐ |
@@ -457,6 +473,7 @@
 | 工具 | 说明 | 旗舰 |
 |---|---|:---:|
 | **PasswordForge** | 安全口令生成器：可配字符集、避开易混字符（Il1O0o）、每类至少含一个，实时熵估计。 | ⭐ |
+| **StrengthForge** | 密码强度估计：按字符集熵估算强度等级与暴力破解耗时，识别常见弱口令与模式，离线可用。 | ⭐ |
 | **VaultForge** | 本地优先的零知识加密密码库：AES-GCM + PBKDF2，登录/卡片/笔记/身份全加密，数据永不出端。 | ⭐ |
 
 ### 🎷️ 数据结构
@@ -502,6 +519,7 @@
 | **PivotForge** | 交叉表透视器：CSV 明细转行列交叉表，sum/count/avg/min/max + 总计。 | ⭐ |
 | **MsgpackForge** | MessagePack 编解码：JSON 值到二进制紧凑序列化与十六进制视图。 | ⭐ |
 | **XlsxForge** | 纯前端 Excel 生成器：粘贴 CSV 即打包为标准 .xlsx（inline string + 数字类型自动识别，自实现 STORED ZIP），零依赖离线可用。 | ⭐ |
+| **StatForge** | 统计与线性回归：均值/中位数/众数、方差/标准差、四分位与 IQR、线性拟合（斜率/截距/R²），一键出直方图，离线可用。 | ⭐ |
 | **TomlForge** | TOML 解析器：字符串/数值/数组/表/数组表，零依赖解析。 | ⭐ |
 | **IniForge** | INI 配置解析：section/键值/注释，与序列化互逆。 | ⭐ |
 | **SQLForge** | 离线 SQL 数据库客户端：基于 SQLite(WASM) 运行真实 SQL，导入 CSV/JSON 建表，结果导出 CSV/JSON，零依赖、数据永不离机。 | ⭐ |
@@ -512,6 +530,22 @@
 | **ChartForge** | 离线数据图表生成器：粘贴 CSV / JSON / TSV，生成柱状 / 折线 / 饼 / 环形 / 散点 / 面积图，Canvas 渲染并导出 PNG 与 SVG。 | ⭐ |
 | **SheetForge** | 离线迷你电子表格：A1 引用、区域、SUM / AVG / IF / ROUND 等公式引擎，依赖图重算与环检测，CSV 导入导出，零依赖。 | ⭐ |
 | **JsonPathForge** | 离线 JSONPath 查询器：自研解析器支持 $ . .. [*] [n] [切片] [?(@.x op v)] 过滤与正则匹配，实时高亮命中、输出规范化路径。 | ⭐ |
+
+### ⚡ 效率工具
+
+| 工具 | 说明 | 旗舰 |
+|---|---|:---:|
+| **RecipeForge** | 食谱管理：录入配料一键按份量缩放，本地保存多个食谱，离线可用。 | ⭐ |
+| **ExpenseForge** | 记账与预算：录入收支、按分类与月份汇总，本地保存，离线可用。 | ⭐ |
+| **FormForge** | 本地优先离线表单构建器：拖拽式字段、实时预览，一键导出独立 HTML 或 JSON Schema。 |  |
+| **FocusForge** | 本地优先的专注与计时工具箱：番茄钟、倒计时、秒表、世界时钟，数据留在浏览器。 |  |
+| **DeckForge** | Markdown 一键变幻灯片：实时预览、键盘翻页、全屏演示、打印导出 PDF。离线、零依赖。 | ⭐ |
+| **CVForge** | 离线简历 / CV 工作台：结构化表单 + 实时预览，三种模板，一键打印导出 PDF，JSON 导入导出，数据留本地。 | ⭐ |
+| **KanbanForge** | 离线看板：多列拖拽卡片，优先级 / 标签 / 搜索筛选，导出 Markdown / JSON，数据永不离机。 | ⭐ |
+| **InvoiceForge** | 离线发票 / 报价单生成器：行项目自动计税、人民币大写金额、A4 实时预览、一键打印导出 PDF。 | ⭐ |
+| **TypingForge** | 离线打字速度测试：WPM / CPM / 准确率 / 稳定性，逐字符实时高亮，15/30/60 秒模式，可复现词表与本地最佳记录。 | ⭐ |
+| **DateForge** | 离线日期计算器：日期间隔（年月日精确拆分）、加减推算、ISO 周 / 年积日 / 工作日、年龄与下次生日，纯整数序列算法无时区陷阱。 | ⭐ |
+| **HabitForge** | 离线习惯追踪器：每日打卡、当前 / 最长连击、近 30 天完成率、半年热力图，数据只存本地，支持 JSON 导入导出。 | ⭐ |
 
 ### 🎷️ AI 效率
 
@@ -525,20 +559,6 @@
 | 工具 | 说明 | 旗舰 |
 |---|---|:---:|
 | **FlowForge** | 本地优先离线看板：多看板、拖拽排序、标签/优先级/截止、清单子任务，数据留在浏览器。 |  |
-
-### ⚡ 效率工具
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **FormForge** | 本地优先离线表单构建器：拖拽式字段、实时预览，一键导出独立 HTML 或 JSON Schema。 |  |
-| **FocusForge** | 本地优先的专注与计时工具箱：番茄钟、倒计时、秒表、世界时钟，数据留在浏览器。 |  |
-| **DeckForge** | Markdown 一键变幻灯片：实时预览、键盘翻页、全屏演示、打印导出 PDF。离线、零依赖。 | ⭐ |
-| **CVForge** | 离线简历 / CV 工作台：结构化表单 + 实时预览，三种模板，一键打印导出 PDF，JSON 导入导出，数据留本地。 | ⭐ |
-| **KanbanForge** | 离线看板：多列拖拽卡片，优先级 / 标签 / 搜索筛选，导出 Markdown / JSON，数据永不离机。 | ⭐ |
-| **InvoiceForge** | 离线发票 / 报价单生成器：行项目自动计税、人民币大写金额、A4 实时预览、一键打印导出 PDF。 | ⭐ |
-| **TypingForge** | 离线打字速度测试：WPM / CPM / 准确率 / 稳定性，逐字符实时高亮，15/30/60 秒模式，可复现词表与本地最佳记录。 | ⭐ |
-| **DateForge** | 离线日期计算器：日期间隔（年月日精确拆分）、加减推算、ISO 周 / 年积日 / 工作日、年龄与下次生日，纯整数序列算法无时区陷阱。 | ⭐ |
-| **HabitForge** | 离线习惯追踪器：每日打卡、当前 / 最长连击、近 30 天完成率、半年热力图，数据只存本地，支持 JSON 导入导出。 | ⭐ |
 
 ### 🛠️ 聚合器
 
