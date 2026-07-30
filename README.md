@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 268 款单文件工具 · 零依赖 · 本地优先
+### 278 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![268 Tools](https://img.shields.io/badge/工具-268%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![270 Repos](https://img.shields.io/badge/仓库-270%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![220 Flagship](https://img.shields.io/badge/旗舰-220%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![278 Tools](https://img.shields.io/badge/工具-278%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![280 Repos](https://img.shields.io/badge/仓库-280%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![230 Flagship](https://img.shields.io/badge/旗舰-230%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 268 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 278 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（220 款）
+## 旗舰工具（230 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -151,6 +151,16 @@
 <tr><td><b>CountdownForge</b></td><td>多倒计时：添加多个目标时刻，实时显示剩余天/时/分/秒，本地保存，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/CountdownForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CountdownForge">src</a></td></tr>
 <tr><td><b>RecipeForge</b></td><td>食谱管理：录入配料一键按份量缩放，本地保存多个食谱，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/RecipeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/RecipeForge">src</a></td></tr>
 <tr><td><b>ExpenseForge</b></td><td>记账与预算：录入收支、按分类与月份汇总，本地保存，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/ExpenseForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ExpenseForge">src</a></td></tr>
+<tr><td><b>TimestampForge</b></td><td>Unix 时间戳 ↔ 日期转换：秒 / 毫秒互转、UTC 与本地时间、星期计算，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/TimestampForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/TimestampForge">src</a></td></tr>
+<tr><td><b>PassgenForge</b></td><td>安全密码生成器：自定义长度与字符集、实时熵估算、浏览器本地随机，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PassgenForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PassgenForge">src</a></td></tr>
+<tr><td><b>AgeForge</b></td><td>年龄与日期差计算：精确到岁 / 月 / 天与合计天数，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/AgeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/AgeForge">src</a></td></tr>
+<tr><td><b>MacForge</b></td><td>MAC 地址工具：随机生成 / 校验 / 规范化、单播多播与本地判定、OUI 厂商查询，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/MacForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MacForge">src</a></td></tr>
+<tr><td><b>NanoidForge</b></td><td>短 ID 与 UUID 生成器：URL 安全 / 十六进制 / 去歧义字符集、UUID v4，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/NanoidForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/NanoidForge">src</a></td></tr>
+<tr><td><b>SitemapForge</b></td><td>sitemap.xml 生成器：URL 列表一键生成标准站点地图，支持更新频率 / 优先级 / 日期，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/SitemapForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SitemapForge">src</a></td></tr>
+<tr><td><b>WordCountForge</b></td><td>文本字数统计：字符 / 词 / 行 / 句 / 段与预计阅读时间，中英混排，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/WordCountForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/WordCountForge">src</a></td></tr>
+<tr><td><b>SqlFmtForge</b></td><td>SQL 格式化：关键字大写、主要子句换行、保留字符串字面量，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/SqlFmtForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SqlFmtForge">src</a></td></tr>
+<tr><td><b>CalorieForge</b></td><td>卡路里与营养记账：记录饮食热量与蛋白 / 碳水 / 脂肪，本机保存，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/CalorieForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CalorieForge">src</a></td></tr>
+<tr><td><b>StopwatchForge</b></td><td>秒表与计圈计时：毫秒精度、暂停 / 继续、圈速最佳最差统计，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/StopwatchForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/StopwatchForge">src</a></td></tr>
 <tr><td><b>MetronomeForge</b></td><td>节拍器：可调 BPM 与拍号，支持重音与前瞻调度内核，Tap 测速，辅助练习节奏，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/MetronomeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MetronomeForge">src</a></td></tr>
 <tr><td><b>PaletteForge</b></td><td>配色生成器：色相旋转派生互补/三角/邻近/单色方案，WCAG 对比度校验，点选即复制，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PaletteForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PaletteForge">src</a></td></tr>
 <tr><td><b>ChordForge</b></td><td>和弦与音阶：和弦识别、音阶构建、音名解析与异名同音归一。</td><td><a href="https://wangzifan396-wzf.github.io/ChordForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ChordForge">src</a></td></tr>
@@ -250,7 +260,7 @@
 
 ---
 
-## 全部工具按分类（268 款）
+## 全部工具按分类（278 款）
 
 ### 📝 文本处理
 
@@ -266,6 +276,7 @@
 | **MarkdownForge** | Markdown 转 HTML 编译器：标题/列表/代码块/引用/链接，转义防注入。 | ⭐ |
 | **SoundexForge** | Soundex + Metaphone 语音编码：人名纠错与同音异拼分组。 | ⭐ |
 | **MarkovForge** | 马尔可夫链文本生成器：从语料构建 N 阶转移表并采样生成新文本，支持中文逐字/英文逐词双模式与可注入随机源，离线可用。 | ⭐ |
+| **WordCountForge** | 文本字数统计：字符 / 词 / 行 / 句 / 段与预计阅读时间，中英混排，离线可用。 | ⭐ |
 | **DistForge** | 字符串距离六合一：Levenshtein/Damerau/Hamming/Jaro-Winkler/Dice。 | ⭐ |
 | **DiffForge** | 离线文本差异对比：基于 LCS 的行级 diff + 并排视图，统计增删，内置逐字符 inline diff。 | ⭐ |
 
@@ -292,6 +303,9 @@
 | **RegexRailForge** | 正则铁路图：把正则解析为铁路图，直观看到拼接/选择/量词的语法结构。 | ⭐ |
 | **SigForge** | 邮件签名生成器：可视化配置头像、姓名、职位、联系方式与社媒链接，输出兼容 Outlook 的 HTML 签名，一键复制，离线可用。 | ⭐ |
 | **ClipForge** | CSS clip-path 编辑器：内置多边形/箭头/星形/六边形/气泡预设，可增删顶点，实时预览并复制 CSS，离线可用。 | ⭐ |
+| **NanoidForge** | 短 ID 与 UUID 生成器：URL 安全 / 十六进制 / 去歧义字符集、UUID v4，离线可用。 | ⭐ |
+| **SitemapForge** | sitemap.xml 生成器：URL 列表一键生成标准站点地图，支持更新频率 / 优先级 / 日期，离线可用。 | ⭐ |
+| **SqlFmtForge** | SQL 格式化：关键字大写、主要子句换行、保留字符串字面量，离线可用。 | ⭐ |
 | **StateForge** | 有限状态机：定义/事件推演/可达性/死状态检测。 | ⭐ |
 | **BenchForge** | 基准统计：mean/median/MAD/P95 + 离群点检测 + A/B 速度比。 | ⭐ |
 | **QsForge** | URL 查询串：解析 / 序列化，重复键转数组，解码空格。 | ⭐ |
@@ -392,6 +406,9 @@
 | **BmiForge** | BMI 与健康区间：输入身高体重得 BMI 与中国成人标准分级，并给出健康体重范围与体脂率估算，离线可用。 | ⭐ |
 | **WorldClockForge** | 世界时钟：并排显示多个时区当前时间，自动算时差，基于 Intl 离线可用。 | ⭐ |
 | **CountdownForge** | 多倒计时：添加多个目标时刻，实时显示剩余天/时/分/秒，本地保存，离线可用。 | ⭐ |
+| **TimestampForge** | Unix 时间戳 ↔ 日期转换：秒 / 毫秒互转、UTC 与本地时间、星期计算，离线可用。 | ⭐ |
+| **AgeForge** | 年龄与日期差计算：精确到岁 / 月 / 天与合计天数，离线可用。 | ⭐ |
+| **StopwatchForge** | 秒表与计圈计时：毫秒精度、暂停 / 继续、圈速最佳最差统计，离线可用。 | ⭐ |
 | **MetronomeForge** | 节拍器：可调 BPM 与拍号，支持重音与前瞻调度内核，Tap 测速，辅助练习节奏，离线可用。 | ⭐ |
 | **ChordForge** | 和弦与音阶：和弦识别、音阶构建、音名解析与异名同音归一。 | ⭐ |
 | **FractalForge** | 分形生成：Mandelbrot 点阵 / Koch 曲线 / Sierpinski 三角。 | ⭐ |
@@ -474,6 +491,7 @@
 |---|---|:---:|
 | **PasswordForge** | 安全口令生成器：可配字符集、避开易混字符（Il1O0o）、每类至少含一个，实时熵估计。 | ⭐ |
 | **StrengthForge** | 密码强度估计：按字符集熵估算强度等级与暴力破解耗时，识别常见弱口令与模式，离线可用。 | ⭐ |
+| **PassgenForge** | 安全密码生成器：自定义长度与字符集、实时熵估算、浏览器本地随机，离线可用。 | ⭐ |
 | **VaultForge** | 本地优先的零知识加密密码库：AES-GCM + PBKDF2，登录/卡片/笔记/身份全加密，数据永不出端。 | ⭐ |
 
 ### 🎷️ 数据结构
@@ -537,6 +555,7 @@
 |---|---|:---:|
 | **RecipeForge** | 食谱管理：录入配料一键按份量缩放，本地保存多个食谱，离线可用。 | ⭐ |
 | **ExpenseForge** | 记账与预算：录入收支、按分类与月份汇总，本地保存，离线可用。 | ⭐ |
+| **CalorieForge** | 卡路里与营养记账：记录饮食热量与蛋白 / 碳水 / 脂肪，本机保存，离线可用。 | ⭐ |
 | **FormForge** | 本地优先离线表单构建器：拖拽式字段、实时预览，一键导出独立 HTML 或 JSON Schema。 |  |
 | **FocusForge** | 本地优先的专注与计时工具箱：番茄钟、倒计时、秒表、世界时钟，数据留在浏览器。 |  |
 | **DeckForge** | Markdown 一键变幻灯片：实时预览、键盘翻页、全屏演示、打印导出 PDF。离线、零依赖。 | ⭐ |
@@ -546,6 +565,19 @@
 | **TypingForge** | 离线打字速度测试：WPM / CPM / 准确率 / 稳定性，逐字符实时高亮，15/30/60 秒模式，可复现词表与本地最佳记录。 | ⭐ |
 | **DateForge** | 离线日期计算器：日期间隔（年月日精确拆分）、加减推算、ISO 周 / 年积日 / 工作日、年龄与下次生日，纯整数序列算法无时区陷阱。 | ⭐ |
 | **HabitForge** | 离线习惯追踪器：每日打卡、当前 / 最长连击、近 30 天完成率、半年热力图，数据只存本地，支持 JSON 导入导出。 | ⭐ |
+
+### 🎷️ 网络
+
+| 工具 | 说明 | 旗舰 |
+|---|---|:---:|
+| **MacForge** | MAC 地址工具：随机生成 / 校验 / 规范化、单播多播与本地判定、OUI 厂商查询，离线可用。 | ⭐ |
+| **SubnetForge** | 离线 IPv4/IPv6 CIDR 子网计算器：网络/广播地址、可用主机范围、子网拆分与归属判断，零上传。 | ⭐ |
+| **UrlForge** | 离线 URL 工具箱：解析、编码/解码、查询参数构建与排序、Slug 生成、规范化，零上传。 | ⭐ |
+| **HttpForge** | 离线 HTTP 速查：状态码（1xx-5xx 可搜索）/ 请求方法特性 / 常见 MIME 类型。 |  |
+| **CurlForge** | 离线 curl 命令生成器：method / headers / body / 认证可视化配置，粘贴即用。 |  |
+| **UAForge** | 离线 User-Agent 解析器：浏览器 / 内核 / 系统 / 设备类型识别，含爬虫检测。 |  |
+| **BookForge** | 离线书签生成器：粘贴 JavaScript 一键生成可拖入书签栏的 javascript: 书签，支持反向解析与语法校验。 | ⭐ |
+| **StatusForge** | 离线 HTTP 状态码速查：覆盖 1xx–5xx 共 60+ 状态码，支持数字 / 关键词搜索与分类筛选。 | ⭐ |
 
 ### 🎷️ AI 效率
 
@@ -596,18 +628,6 @@
 | 工具 | 说明 | 旗舰 |
 |---|---|:---:|
 | **PDFForge** | 本地优先 PDF 工具箱：合并、拆分、旋转、重排、优化重存，文件永不上传。 | ⭐ |
-
-### 🎷️ 网络
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **SubnetForge** | 离线 IPv4/IPv6 CIDR 子网计算器：网络/广播地址、可用主机范围、子网拆分与归属判断，零上传。 | ⭐ |
-| **UrlForge** | 离线 URL 工具箱：解析、编码/解码、查询参数构建与排序、Slug 生成、规范化，零上传。 | ⭐ |
-| **HttpForge** | 离线 HTTP 速查：状态码（1xx-5xx 可搜索）/ 请求方法特性 / 常见 MIME 类型。 |  |
-| **CurlForge** | 离线 curl 命令生成器：method / headers / body / 认证可视化配置，粘贴即用。 |  |
-| **UAForge** | 离线 User-Agent 解析器：浏览器 / 内核 / 系统 / 设备类型识别，含爬虫检测。 |  |
-| **BookForge** | 离线书签生成器：粘贴 JavaScript 一键生成可拖入书签栏的 javascript: 书签，支持反向解析与语法校验。 | ⭐ |
-| **StatusForge** | 离线 HTTP 状态码速查：覆盖 1xx–5xx 共 60+ 状态码，支持数字 / 关键词搜索与分类筛选。 | ⭐ |
 
 ### 🎷️ 文本
 
