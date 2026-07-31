@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 328 款单文件工具 · 零依赖 · 本地优先
+### 338 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![328 Tools](https://img.shields.io/badge/工具-328%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![330 Repos](https://img.shields.io/badge/仓库-330%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![280 Flagship](https://img.shields.io/badge/旗舰-280%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![338 Tools](https://img.shields.io/badge/工具-338%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![340 Repos](https://img.shields.io/badge/仓库-340%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![290 Flagship](https://img.shields.io/badge/旗舰-290%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 328 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 338 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（280 款）
+## 旗舰工具（290 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -211,6 +211,16 @@
 <tr><td><b>SriForge</b></td><td>子资源完整性 SRI：纯前端 SHA-256 摘要（base64/hex）、integrity 解析校验、script/link 标签生成与跨域体检，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/SriForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SriForge">src</a></td></tr>
 <tr><td><b>BlurhashForge</b></td><td>BlurHash 编解码：base83 与 DCT 分量还原、Canvas 实时预览、渐变编码生成与 CSS 占位图导出，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/BlurhashForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/BlurhashForge">src</a></td></tr>
 <tr><td><b>NdjsonForge</b></td><td>NDJSON/JSON Lines 处理：逐行校验与错误定位、嵌套字段画像、类型一致性体检、JSON 数组与 CSV 互转，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/NdjsonForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/NdjsonForge">src</a></td></tr>
+<tr><td><b>EvalForge</b></td><td>LLM 输出评测：BLEU-4 / ROUGE-L / token F1 / 编辑相似度逐项打分，支持批量成对评测与 pass@k 估算，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/EvalForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/EvalForge">src</a></td></tr>
+<tr><td><b>PromptDiffForge</b></td><td>提示词版本对比：LCS 行级差异与词级高亮、token 增减率、六款模型调用成本影响与 prompt lint，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PromptDiffForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PromptDiffForge">src</a></td></tr>
+<tr><td><b>WebhookForge</b></td><td>Webhook 签名校验：Stripe/GitHub/Shopify/Slack 五种方案本地 HMAC-SHA256 验签、重放窗口检查与退避重试推演，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/WebhookForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/WebhookForge">src</a></td></tr>
+<tr><td><b>OpenapiForge</b></td><td>OpenAPI 规范体检：内置 YAML/JSON 解析、operationId 重复与路径参数未声明检测、响应覆盖率 A–F 评分与 curl 生成，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/OpenapiForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/OpenapiForge">src</a></td></tr>
+<tr><td><b>ProtoForge</b></td><td>Protobuf 结构解析：message/enum/service/oneof/map 语法解析、wire type 与 tag 字节开销测算、字段号体检与 TypeScript 导出，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/ProtoForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ProtoForge">src</a></td></tr>
+<tr><td><b>DepGraphForge</b></td><td>依赖体检与循环检测：package.json 版本范围风险打分、模块依赖图循环查找、拓扑排序与扇入扇出指标、DOT 导出，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/DepGraphForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DepGraphForge">src</a></td></tr>
+<tr><td><b>SankeyForge</b></td><td>桑基流量图：一行一条流向文本直出 SVG，最长路径自动分层、贝塞尔缎带渲染与节点流量守恒体检，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/SankeyForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SankeyForge">src</a></td></tr>
+<tr><td><b>WaterfallForge</b></td><td>瀑布图：期初到期末的增减归因，红涨绿跌符合 A 股习惯，自动累计与连接线、贡献度排序与 SVG 导出，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/WaterfallForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/WaterfallForge">src</a></td></tr>
+<tr><td><b>RadarForge</b></td><td>雷达图：多维能力对比直出 SVG，覆盖面积占比、均衡度与变异系数、逐轴最优最差与极差分析，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/RadarForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/RadarForge">src</a></td></tr>
+<tr><td><b>CalendarHeatForge</b></td><td>日历热力图：GitHub 风格贡献格，同日累加、五档配色、当前与最长连续天数、活跃覆盖率与星期分布，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/CalendarHeatForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CalendarHeatForge">src</a></td></tr>
 <tr><td><b>MetronomeForge</b></td><td>节拍器：可调 BPM 与拍号，支持重音与前瞻调度内核，Tap 测速，辅助练习节奏，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/MetronomeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MetronomeForge">src</a></td></tr>
 <tr><td><b>PaletteForge</b></td><td>配色生成器：色相旋转派生互补/三角/邻近/单色方案，WCAG 对比度校验，点选即复制，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PaletteForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PaletteForge">src</a></td></tr>
 <tr><td><b>ChordForge</b></td><td>和弦与音阶：和弦识别、音阶构建、音名解析与异名同音归一。</td><td><a href="https://wangzifan396-wzf.github.io/ChordForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ChordForge">src</a></td></tr>
@@ -310,7 +320,7 @@
 
 ---
 
-## 全部工具按分类（328 款）
+## 全部工具按分类（338 款）
 
 ### 📝 文本处理
 
@@ -381,6 +391,9 @@
 | **CorsForge** | CORS 配置校验：通配符/多来源/凭证组合风险检测、合规评级，离线可用。 | ⭐ |
 | **RateLimitForge** | 限流算法可视化：令牌桶/漏桶/滑动窗口的可用量、剩余量与容量估算，附算法对比说明，离线可用。 | ⭐ |
 | **SqlExplainForge** | SQL 执行顺序解析：拆解 SELECT/FROM/JOIN/WHERE/GROUP/ORDER/LIMIT，按真实执行步骤还原，离线可用。 | ⭐ |
+| **OpenapiForge** | OpenAPI 规范体检：内置 YAML/JSON 解析、operationId 重复与路径参数未声明检测、响应覆盖率 A–F 评分与 curl 生成，离线可用。 | ⭐ |
+| **ProtoForge** | Protobuf 结构解析：message/enum/service/oneof/map 语法解析、wire type 与 tag 字节开销测算、字段号体检与 TypeScript 导出，离线可用。 | ⭐ |
+| **DepGraphForge** | 依赖体检与循环检测：package.json 版本范围风险打分、模块依赖图循环查找、拓扑排序与扇入扇出指标、DOT 导出，离线可用。 | ⭐ |
 | **StateForge** | 有限状态机：定义/事件推演/可达性/死状态检测。 | ⭐ |
 | **BenchForge** | 基准统计：mean/median/MAD/P95 + 离群点检测 + A/B 速度比。 | ⭐ |
 | **QsForge** | URL 查询串：解析 / 序列化，重复键转数组，解码空格。 | ⭐ |
@@ -415,6 +428,8 @@
 | **McpForge** | MCP 服务器配置生成与体检：stdio/sse/http 传输识别、参数与环境变量解析、硬编码密钥审计，离线可用。 | ⭐ |
 | **RagForge** | RAG 分块规划器：中英混排 token 估算、重叠切分与冗余率、上下文预算分配、Embedding 成本测算，离线可用。 | ⭐ |
 | **AgentSchemaForge** | Agent 工具调用 Schema 生成：OpenAI/Anthropic/MCP 三种风格互转、lint 检查与调用参数校验，离线可用。 | ⭐ |
+| **EvalForge** | LLM 输出评测：BLEU-4 / ROUGE-L / token F1 / 编辑相似度逐项打分，支持批量成对评测与 pass@k 估算，离线可用。 | ⭐ |
+| **PromptDiffForge** | 提示词版本对比：LCS 行级差异与词级高亮、token 增减率、六款模型调用成本影响与 prompt lint，离线可用。 | ⭐ |
 | **ChatForge** | 本地优先 BYOK AI 对话：自带密钥直连 OpenAI/Anthropic/OpenRouter，流式输出，密钥永不离机。 | ⭐ |
 | **PromptForge** | 本地优先 AI Prompt 工作台：变量模板、实时预览、BYOK 直连大模型、Token 与成本估算、本地历史，密钥永不离机。 | ⭐ |
 
@@ -479,6 +494,10 @@
 | **FlamegraphForge** | 火焰图渲染器：折叠栈转 SVG、self 时间排行、最热调用路径，离线可用。 | ⭐ |
 | **HeatmapForge** | 日历活动热力图：GitHub 风格贡献格、分位配色、连续打卡统计，离线可用。 | ⭐ |
 | **TreemapForge** | 方块树图生成器：squarified 布局、面积占比可视化、SVG 导出，离线可用。 | ⭐ |
+| **SankeyForge** | 桑基流量图：一行一条流向文本直出 SVG，最长路径自动分层、贝塞尔缎带渲染与节点流量守恒体检，离线可用。 | ⭐ |
+| **WaterfallForge** | 瀑布图：期初到期末的增减归因，红涨绿跌符合 A 股习惯，自动累计与连接线、贡献度排序与 SVG 导出，离线可用。 | ⭐ |
+| **RadarForge** | 雷达图：多维能力对比直出 SVG，覆盖面积占比、均衡度与变异系数、逐轴最优最差与极差分析，离线可用。 | ⭐ |
+| **CalendarHeatForge** | 日历热力图：GitHub 风格贡献格，同日累加、五档配色、当前与最长连续天数、活跃覆盖率与星期分布，离线可用。 | ⭐ |
 | **DrawForge** | 离线白板：手绘风画笔、矩形、椭圆、箭头、文本，自由平移缩放，一键导出 PNG/SVG，自动本地保存。 | ⭐ |
 | **GraphForge** | 离线 Mermaid 图表编辑器：写 DSL 实时预览，一键导出 SVG/PNG，零依赖、数据永不离机。 | ⭐ |
 | **MindForge** | 本地优先思维导图编辑器：结构化节点树、自动布局、分支配色，导出 PNG/SVG/JSON，离线可用。 | ⭐ |
@@ -626,6 +645,7 @@
 | **TlsForge** | TLS 密码套件体检：前向保密/AEAD 判定与 A–F 评分、协议版本风险表、HSTS 生成与证书到期提醒，离线可用。 | ⭐ |
 | **CspForge** | 内容安全策略生成与评分：strict/basic/lockdown 三档模板、nonce 生成、unsafe-inline 与通配符风险检测，离线可用。 | ⭐ |
 | **SriForge** | 子资源完整性 SRI：纯前端 SHA-256 摘要（base64/hex）、integrity 解析校验、script/link 标签生成与跨域体检，离线可用。 | ⭐ |
+| **WebhookForge** | Webhook 签名校验：Stripe/GitHub/Shopify/Slack 五种方案本地 HMAC-SHA256 验签、重放窗口检查与退避重试推演，离线可用。 | ⭐ |
 | **VaultForge** | 本地优先的零知识加密密码库：AES-GCM + PBKDF2，登录/卡片/笔记/身份全加密，数据永不出端。 | ⭐ |
 | **CipherForge** | 离线经典密码：凯撒 / 维吉尼亚 / ROT13 / Atbash，数据不出本机。 | ⭐ |
 
