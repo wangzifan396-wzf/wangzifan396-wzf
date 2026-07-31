@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 278 款单文件工具 · 零依赖 · 本地优先
+### 298 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![278 Tools](https://img.shields.io/badge/工具-278%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![280 Repos](https://img.shields.io/badge/仓库-280%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![230 Flagship](https://img.shields.io/badge/旗舰-230%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![298 Tools](https://img.shields.io/badge/工具-298%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![300 Repos](https://img.shields.io/badge/仓库-300%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![250 Flagship](https://img.shields.io/badge/旗舰-250%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 278 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 298 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（230 款）
+## 旗舰工具（250 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -161,6 +161,26 @@
 <tr><td><b>SqlFmtForge</b></td><td>SQL 格式化：关键字大写、主要子句换行、保留字符串字面量，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/SqlFmtForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SqlFmtForge">src</a></td></tr>
 <tr><td><b>CalorieForge</b></td><td>卡路里与营养记账：记录饮食热量与蛋白 / 碳水 / 脂肪，本机保存，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/CalorieForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CalorieForge">src</a></td></tr>
 <tr><td><b>StopwatchForge</b></td><td>秒表与计圈计时：毫秒精度、暂停 / 继续、圈速最佳最差统计，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/StopwatchForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/StopwatchForge">src</a></td></tr>
+<tr><td><b>SrtForge</b></td><td>字幕工具：SRT 与 WebVTT 互转、时间轴平移与速率缩放、重叠检测与统计，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/SrtForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SrtForge">src</a></td></tr>
+<tr><td><b>JsonSchemaForge</b></td><td>JSON Schema 校验器：type / required / enum / pattern 与数值数组约束，错误精确到路径，可从数据反推 Schema，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/JsonSchemaForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/JsonSchemaForge">src</a></td></tr>
+<tr><td><b>HttpStatusForge</b></td><td>HTTP 状态码速查：五大分类语义说明、可重试与可缓存判定、关键词检索，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/HttpStatusForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/HttpStatusForge">src</a></td></tr>
+<tr><td><b>AnsiForge</b></td><td>ANSI 终端着色：转义序列渲染为彩色 HTML、一键去色还原纯文本、SGR 序列统计，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/AnsiForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/AnsiForge">src</a></td></tr>
+<tr><td><b>FrontmatterForge</b></td><td>Markdown Front-matter 体检：YAML 子集解析、必填字段校验、重复键与 SEO 长度提醒、规范化回写，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/FrontmatterForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/FrontmatterForge">src</a></td></tr>
+<tr><td><b>PhoneForge</b></td><td>国际电话号码解析：20 国国家码识别、E.164 规范化、位数与号段校验、脱敏展示，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PhoneForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PhoneForge">src</a></td></tr>
+<tr><td><b>IbanForge</b></td><td>IBAN 与银行卡校验：mod-97 校验位推算、41 国长度表、四位分组格式化、Luhn 校验，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/IbanForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/IbanForge">src</a></td></tr>
+<tr><td><b>PaceForge</b></td><td>跑步配速计算：配速 / 用时 / 速度三向互算、公里分段表、Riegel 公式预测 5K 到全马，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PaceForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PaceForge">src</a></td></tr>
+<tr><td><b>KeycodeForge</b></td><td>键盘事件查看器：实时捕获 key / code / keyCode、组合键与 macOS 记法、按码反查，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/KeycodeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/KeycodeForge">src</a></td></tr>
+<tr><td><b>RobotsForge</b></td><td>robots.txt 生成与抓取测试：按 UA 选组、最长匹配判定、通配符与 $ 锚点、语法体检，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/RobotsForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/RobotsForge">src</a></td></tr>
+<tr><td><b>ChefForge</b></td><td>链式编解码流水线：Base64/Hex/URL/ROT13/XOR 组合配方、逐步中间结果，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/ChefForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ChefForge">src</a></td></tr>
+<tr><td><b>AttentionForge</b></td><td>Transformer 注意力可视化：QK 缩放点积、softmax 权重热力矩阵、因果掩码，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/AttentionForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/AttentionForge">src</a></td></tr>
+<tr><td><b>DbmlForge</b></td><td>DBML 转 SQL DDL：双方言生成、外键推导、Mermaid ER 导出与 schema 体检，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/DbmlForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DbmlForge">src</a></td></tr>
+<tr><td><b>FlamegraphForge</b></td><td>火焰图渲染器：折叠栈转 SVG、self 时间排行、最热调用路径，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/FlamegraphForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/FlamegraphForge">src</a></td></tr>
+<tr><td><b>HeatmapForge</b></td><td>日历活动热力图：GitHub 风格贡献格、分位配色、连续打卡统计，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/HeatmapForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/HeatmapForge">src</a></td></tr>
+<tr><td><b>TreeForge</b></td><td>目录树生成器：缩进与路径列表转 tree 连线图，JSON/ASCII 互转，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/TreeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/TreeForge">src</a></td></tr>
+<tr><td><b>JsonLdForge</b></td><td>JSON-LD 结构化数据校验：schema.org 字段体检、日期校验、嵌入片段生成，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/JsonLdForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/JsonLdForge">src</a></td></tr>
+<tr><td><b>DmarcForge</b></td><td>DMARC 记录分析：标签解读、防护评分分级、语法体检与记录生成，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/DmarcForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DmarcForge">src</a></td></tr>
+<tr><td><b>GraphqlForge</b></td><td>GraphQL 查询分析：变量片段体检、变量模板生成、复杂度评分，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/GraphqlForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/GraphqlForge">src</a></td></tr>
+<tr><td><b>LlmCostForge</b></td><td>大模型调用成本测算：token 估算、10 款模型比价、缓存节省与窗口预警，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/LlmCostForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/LlmCostForge">src</a></td></tr>
 <tr><td><b>MetronomeForge</b></td><td>节拍器：可调 BPM 与拍号，支持重音与前瞻调度内核，Tap 测速，辅助练习节奏，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/MetronomeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MetronomeForge">src</a></td></tr>
 <tr><td><b>PaletteForge</b></td><td>配色生成器：色相旋转派生互补/三角/邻近/单色方案，WCAG 对比度校验，点选即复制，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PaletteForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PaletteForge">src</a></td></tr>
 <tr><td><b>ChordForge</b></td><td>和弦与音阶：和弦识别、音阶构建、音名解析与异名同音归一。</td><td><a href="https://wangzifan396-wzf.github.io/ChordForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ChordForge">src</a></td></tr>
@@ -260,7 +280,7 @@
 
 ---
 
-## 全部工具按分类（278 款）
+## 全部工具按分类（298 款）
 
 ### 📝 文本处理
 
@@ -277,8 +297,22 @@
 | **SoundexForge** | Soundex + Metaphone 语音编码：人名纠错与同音异拼分组。 | ⭐ |
 | **MarkovForge** | 马尔可夫链文本生成器：从语料构建 N 阶转移表并采样生成新文本，支持中文逐字/英文逐词双模式与可注入随机源，离线可用。 | ⭐ |
 | **WordCountForge** | 文本字数统计：字符 / 词 / 行 / 句 / 段与预计阅读时间，中英混排，离线可用。 | ⭐ |
+| **SrtForge** | 字幕工具：SRT 与 WebVTT 互转、时间轴平移与速率缩放、重叠检测与统计，离线可用。 | ⭐ |
+| **AnsiForge** | ANSI 终端着色：转义序列渲染为彩色 HTML、一键去色还原纯文本、SGR 序列统计，离线可用。 | ⭐ |
+| **FrontmatterForge** | Markdown Front-matter 体检：YAML 子集解析、必填字段校验、重复键与 SEO 长度提醒、规范化回写，离线可用。 | ⭐ |
+| **TreeForge** | 目录树生成器：缩进与路径列表转 tree 连线图，JSON/ASCII 互转，离线可用。 | ⭐ |
 | **DistForge** | 字符串距离六合一：Levenshtein/Damerau/Hamming/Jaro-Winkler/Dice。 | ⭐ |
+| **CaseForge** | 离线文本大小写转换与行工具：camelCase/snake_case/kebab-case 等、去重、排序、加前缀与行号。 |  |
+| **LoremForge** | 离线 Lorem ipsum 占位文本生成器：可复现种子、段落/句数可调、可选 Lorem 开头与纯词数模式。 |  |
+| **AsciiForge** | 离线 ASCII 艺术：A-Z 0-9 点阵横幅 / 文本框 / 黑客语转换。 | ⭐ |
+| **LinesForge** | 离线文本行工具箱：去重 / 排序 / 删空行 / 加行号 / 反转，实时统计。 |  |
 | **DiffForge** | 离线文本差异对比：基于 LCS 的行级 diff + 并排视图，统计增删，内置逐字符 inline diff。 | ⭐ |
+| **EmojiForge** | 离线 emoji 速查：120+ 常用 emoji，按关键词或分组搜索，点击即复制并显示 Unicode 码位。 | ⭐ |
+| **WordForge** | 离线文本统计：字符 / 词数 / 行数 / 句子 / 段落 / 阅读时长 + 高频英文词，中英文混排友好。 | ⭐ |
+| **SlugForge** | 离线 URL Slug 生成：变音符折叠（é→e、ß→ss）、可配置分隔符 / 大小写 / 长度，支持批量。 | ⭐ |
+| **RomanForge** | 离线罗马数字：阿拉伯数字 ↔ 罗马数字互转，支持规范形校验，范围 1–3999。 | ⭐ |
+| **TempForge** | 离线温度换算：摄氏度 / 华氏度 / 开尔文 / 兰氏度四标度互转，实时计算。 | ⭐ |
+| **MorseForge** | 离线莫尔斯电码：文本 ↔ 电码互转，自动识别方向，内置完整速查表可点击输入。 | ⭐ |
 
 ### 🔧 开发辅助
 
@@ -306,12 +340,22 @@
 | **NanoidForge** | 短 ID 与 UUID 生成器：URL 安全 / 十六进制 / 去歧义字符集、UUID v4，离线可用。 | ⭐ |
 | **SitemapForge** | sitemap.xml 生成器：URL 列表一键生成标准站点地图，支持更新频率 / 优先级 / 日期，离线可用。 | ⭐ |
 | **SqlFmtForge** | SQL 格式化：关键字大写、主要子句换行、保留字符串字面量，离线可用。 | ⭐ |
+| **JsonSchemaForge** | JSON Schema 校验器：type / required / enum / pattern 与数值数组约束，错误精确到路径，可从数据反推 Schema，离线可用。 | ⭐ |
+| **KeycodeForge** | 键盘事件查看器：实时捕获 key / code / keyCode、组合键与 macOS 记法、按码反查，离线可用。 | ⭐ |
+| **DbmlForge** | DBML 转 SQL DDL：双方言生成、外键推导、Mermaid ER 导出与 schema 体检，离线可用。 | ⭐ |
+| **JsonLdForge** | JSON-LD 结构化数据校验：schema.org 字段体检、日期校验、嵌入片段生成，离线可用。 | ⭐ |
+| **GraphqlForge** | GraphQL 查询分析：变量片段体检、变量模板生成、复杂度评分，离线可用。 | ⭐ |
 | **StateForge** | 有限状态机：定义/事件推演/可达性/死状态检测。 | ⭐ |
 | **BenchForge** | 基准统计：mean/median/MAD/P95 + 离群点检测 + A/B 速度比。 | ⭐ |
 | **QsForge** | URL 查询串：解析 / 序列化，重复键转数组，解码空格。 | ⭐ |
 | **APIForge** | 离线 REST / GraphQL 客户端：请求构建、Bearer/Basic 鉴权、响应计时与体积、历史记录，零依赖。 | ⭐ |
+| **A11yForge** | 离线无障碍工具箱：WCAG 对比度检查、合规取色、色盲模拟、HTML/ARIA 审计，零上传。 | ⭐ |
+| **HtmlForge** | 离线 HTML 工具：压缩 / 格式化 / 转义反转义，零依赖。 |  |
+| **TypeForge** | 离线 JSON → TypeScript 接口生成：嵌套对象展开、数组联合类型推断，零上传。 | ⭐ |
 | **ChmodForge** | 离线 UNIX 权限计算器：八进制 ↔ rwx 符号互转，支持 setuid/setgid/sticky。 |  |
 | **DockerForge** | 离线 docker run → docker-compose.yml 转换：支持 30+ 参数，YAML 安全转义。 |  |
+| **MetaForge** | 离线 Meta 标签生成器：基础 + Open Graph + Twitter Card 全套，SEO 长度检查。 |  |
+| **ShotForge** | 离线代码截图生成器：轻量语法高亮 + 仿 macOS 窗口外观，一键复制 SVG / 导出 2x PNG。 | ⭐ |
 | **StructForge** | 离线结构生成：粘贴 JSON 一键转 TypeScript interface / Go struct / Python dataclass / JSON Schema，嵌套自动拆分。 | ⭐ |
 | **GlobForge** | 离线 Glob 模式测试：支持 * / ** / ? / [abc] / {a,b}，对一批路径实时匹配并统计命中数。 | ⭐ |
 | **MathForge** | 离线数学表达式求值：安全无 eval，支持 + - * / ^ % 括号、函数与常量。 | ⭐ |
@@ -330,13 +374,32 @@
 | 工具 | 说明 | 旗舰 |
 |---|---|:---:|
 | **ContextLens** | LLM 上下文与成本可视化器：token 估算、多模型价格对比、上下文窗口占用分析。 |  |
+| **AttentionForge** | Transformer 注意力可视化：QK 缩放点积、softmax 权重热力矩阵、因果掩码，离线可用。 | ⭐ |
+| **LlmCostForge** | 大模型调用成本测算：token 估算、10 款模型比价、缓存节省与窗口预警，离线可用。 | ⭐ |
+| **ChatForge** | 本地优先 BYOK AI 对话：自带密钥直连 OpenAI/Anthropic/OpenRouter，流式输出，密钥永不离机。 | ⭐ |
+| **PromptForge** | 本地优先 AI Prompt 工作台：变量模板、实时预览、BYOK 直连大模型、Token 与成本估算、本地历史，密钥永不离机。 | ⭐ |
 
-### 📔 效率笔记
+### ⚡ 效率工具
 
 | 工具 | 说明 | 旗舰 |
 |---|---|:---:|
 | **Inkwell** | 本地优先 Markdown 知识库：双向链接、力导向关系图、实时预览，数据全存本地。 |  |
 | **MarkForge** | Markdown 实时编辑器：边写边预览、快捷工具栏、导出独立 HTML、中英文字数统计。 |  |
+| **RecipeForge** | 食谱管理：录入配料一键按份量缩放，本地保存多个食谱，离线可用。 | ⭐ |
+| **ExpenseForge** | 记账与预算：录入收支、按分类与月份汇总，本地保存，离线可用。 | ⭐ |
+| **CalorieForge** | 卡路里与营养记账：记录饮食热量与蛋白 / 碳水 / 脂肪，本机保存，离线可用。 | ⭐ |
+| **FlowForge** | 本地优先离线看板：多看板、拖拽排序、标签/优先级/截止、清单子任务，数据留在浏览器。 |  |
+| **FormForge** | 本地优先离线表单构建器：拖拽式字段、实时预览，一键导出独立 HTML 或 JSON Schema。 |  |
+| **FocusForge** | 本地优先的专注与计时工具箱：番茄钟、倒计时、秒表、世界时钟，数据留在浏览器。 |  |
+| **DeckForge** | Markdown 一键变幻灯片：实时预览、键盘翻页、全屏演示、打印导出 PDF。离线、零依赖。 | ⭐ |
+| **SnipForge** | 本地优先的代码片段管理器：分类、标签、全文搜索，一键复制，JSON 导入导出，离线可用。 | ⭐ |
+| **PlanForge** | 本地优先甘特图 / 路线图规划器：任务、依赖、里程碑、进度追踪，导出 PNG/SVG/JSON，离线可用。 | ⭐ |
+| **CVForge** | 离线简历 / CV 工作台：结构化表单 + 实时预览，三种模板，一键打印导出 PDF，JSON 导入导出，数据留本地。 | ⭐ |
+| **KanbanForge** | 离线看板：多列拖拽卡片，优先级 / 标签 / 搜索筛选，导出 Markdown / JSON，数据永不离机。 | ⭐ |
+| **InvoiceForge** | 离线发票 / 报价单生成器：行项目自动计税、人民币大写金额、A4 实时预览、一键打印导出 PDF。 | ⭐ |
+| **TypingForge** | 离线打字速度测试：WPM / CPM / 准确率 / 稳定性，逐字符实时高亮，15/30/60 秒模式，可复现词表与本地最佳记录。 | ⭐ |
+| **DateForge** | 离线日期计算器：日期间隔（年月日精确拆分）、加减推算、ISO 周 / 年积日 / 工作日、年龄与下次生日，纯整数序列算法无时区陷阱。 | ⭐ |
+| **HabitForge** | 离线习惯追踪器：每日打卡、当前 / 最长连击、近 30 天完成率、半年热力图，数据只存本地，支持 JSON 导入导出。 | ⭐ |
 
 ### 📊 可视化
 
@@ -374,6 +437,8 @@
 | **WfcForge** | 波函数坍缩（WFC）地形生成器：海/滩/草/林/山邻接约束，最小熵坍缩 + 约束传播，种子可复现，SVG 网格渲染，离线可用。 | ⭐ |
 | **PlotForge** | 函数绘图器：输入 sin(x)*x 等表达式即渲染 SVG 曲线，递归下降解析器支持 + - * / ^ 与常用函数，多曲线叠加，离线可用。 | ⭐ |
 | **TimelineForge** | 时间线生成器：「日期 | 标题 | 描述」一行一事件，自动排序后渲染左右交替时间线 SVG，支持年月日三种粒度，离线可用。 | ⭐ |
+| **FlamegraphForge** | 火焰图渲染器：折叠栈转 SVG、self 时间排行、最热调用路径，离线可用。 | ⭐ |
+| **HeatmapForge** | 日历活动热力图：GitHub 风格贡献格、分位配色、连续打卡统计，离线可用。 | ⭐ |
 | **DrawForge** | 离线白板：手绘风画笔、矩形、椭圆、箭头、文本，自由平移缩放，一键导出 PNG/SVG，自动本地保存。 | ⭐ |
 | **GraphForge** | 离线 Mermaid 图表编辑器：写 DSL 实时预览，一键导出 SVG/PNG，零依赖、数据永不离机。 | ⭐ |
 | **MindForge** | 本地优先思维导图编辑器：结构化节点树、自动布局、分支配色，导出 PNG/SVG/JSON，离线可用。 | ⭐ |
@@ -409,6 +474,8 @@
 | **TimestampForge** | Unix 时间戳 ↔ 日期转换：秒 / 毫秒互转、UTC 与本地时间、星期计算，离线可用。 | ⭐ |
 | **AgeForge** | 年龄与日期差计算：精确到岁 / 月 / 天与合计天数，离线可用。 | ⭐ |
 | **StopwatchForge** | 秒表与计圈计时：毫秒精度、暂停 / 继续、圈速最佳最差统计，离线可用。 | ⭐ |
+| **PhoneForge** | 国际电话号码解析：20 国国家码识别、E.164 规范化、位数与号段校验、脱敏展示，离线可用。 | ⭐ |
+| **PaceForge** | 跑步配速计算：配速 / 用时 / 速度三向互算、公里分段表、Riegel 公式预测 5K 到全马，离线可用。 | ⭐ |
 | **MetronomeForge** | 节拍器：可调 BPM 与拍号，支持重音与前瞻调度内核，Tap 测速，辅助练习节奏，离线可用。 | ⭐ |
 | **ChordForge** | 和弦与音阶：和弦识别、音阶构建、音名解析与异名同音归一。 | ⭐ |
 | **FractalForge** | 分形生成：Mandelbrot 点阵 / Koch 曲线 / Sierpinski 三角。 | ⭐ |
@@ -430,6 +497,8 @@
 | **SandForge** | 落沙模拟：元胞自动机，沙粒受重力下落/斜滑，遇墙堆积，可绘制沙与障碍物，实时观察堆积形态，离线可用。 | ⭐ |
 | **ImgConvertForge** | 图片格式转换：浏览器内将 PNG/JPEG/WebP 互转，可调质量与最大边长，Canvas 实时预览并下载，零上传、离线可用。 | ⭐ |
 | **BrailleForge** | 盲文点阵生成器：将文字渲染为盲文 Unicode 点阵字符画，支持反相与画布尺寸调节，复古终端风格，离线可用。 | ⭐ |
+| **AudioForge** | 离线音频编辑器：加载音频、波形预览、裁剪、增益、淡入淡出、归一化、反转，导出 WAV，零上传。 | ⭐ |
+| **PDFForge** | 本地优先 PDF 工具箱：合并、拆分、旋转、重排、优化重存，文件永不上传。 | ⭐ |
 | **PixelForge** | 离线像素画 / 精灵图编辑器：画笔、橡皮、填充、取色、直线、矩形、X 轴镜像、网格缩放、24 色调色板、动画帧+洋葱皮+FPS 预览，导出 PNG@Nx 与雪碧图，localStorage 多项目管理。 | ⭐ |
 | **GIFForge** | 离线 GIF 动画制作器：拖入图片或雪碧图切片成帧，拖拽排帧、逐帧延时、循环与抖动控制，纯 JS GIF89a 编码器（LZW+中位切分量化）本地导出。 | ⭐ |
 | **MeshForge** | 离线 3D 模型查看器：拖入 OBJ / STL（二进制/ASCII 自动识别），WebGL 轨道渲染，着色/线框/点云三模式，坐标轴+网格+AABB 自动取景，PNG 快照导出。 | ⭐ |
@@ -448,6 +517,12 @@
 | **PaletteForge** | 配色生成器：色相旋转派生互补/三角/邻近/单色方案，WCAG 对比度校验，点选即复制，离线可用。 | ⭐ |
 | **FontForge** | 字体预览与排版样张工作台：拖入字体即时渲染，调节字号 / 行高 / 字距 / 字重，字形表与可移植样张导出，本地优先。 | ⭐ |
 | **ImageForge** | 离线图片编辑器：裁剪、缩放、旋转翻转、亮度 / 对比度 / 饱和度 / 色相 / 模糊调整、滤镜，导出 PNG/JPEG/WebP，零上传。 | ⭐ |
+| **BarcodeForge** | 离线一维条码生成器：Code 128 / EAN-13 / UPC-A（含校验位），矢量 SVG 导出，零依赖。 | ⭐ |
+| **ExifForge** | 离线图片 EXIF 元数据查看与清除：解析 JPEG APP1 / TIFF IFD，一键剥离拍摄隐私信息。 |  |
+| **AvatarForge** | 离线身份图标：种子文本生成确定性 identicon（SVG），零上传。 |  |
+| **FaviconForge** | 离线 Favicon 生成：文字 / Emoji → SVG，自定义配色。 |  |
+| **GradientForge** | 离线 CSS 渐变构建器：线性 / 径向 / 锥形，多色标实时预览，一键复制 CSS。 |  |
+| **WhiteboardForge** | 离线无限画布白板：矩形/椭圆/线/箭头/自由笔/文字/便签，平移缩放、撤销重做、本地自动保存，导出 PNG 与 SVG。 | ⭐ |
 | **ColorBlindForge** | 离线色觉障碍模拟器：Machado 三型 + 全色盲模拟，sRGB↔Lab 转换、WCAG 对比度与 ΔE 审计，调色板无障碍检查。 | ⭐ |
 
 ### 🎷️ 编码加密
@@ -469,12 +544,14 @@
 | **Base85Forge** | Ascii85 + Z85 编解码：z 压缩、尾组截断、RFC 向量校验。 | ⭐ |
 | **StegForge** | 零宽隐写：把秘密消息藏进不可见字符，检测/提取/防篡改。 | ⭐ |
 | **HashIdForge** | 哈希类型识别：根据长度、字符集与特征前缀判断 md5/sha 系列/bcrypt/argon2/ntlm 等，离线可用。 | ⭐ |
+| **ChefForge** | 链式编解码流水线：Base64/Hex/URL/ROT13/XOR 组合配方、逐步中间结果，离线可用。 | ⭐ |
 | **MurmurForge** | MurmurHash3 x86_32 哈希：UTF-8 输入、自定义种子、分桶路由。 | ⭐ |
 | **Base32Forge** | Base32 编解码：RFC4648 / Base32Hex / Crockford / z-base-32 四变体。 | ⭐ |
 | **VarintForge** | protobuf varint + ZigZag 变长整数编解码，hex 字节流互转。 | ⭐ |
 | **HuffmanForge** | 霍夫曼熵编码压缩器：基于字符频率的最优前缀码，无损还原。 | ⭐ |
 | **CrcForge** | CRC 校验和：CRC-32 与 CRC-16/CCITT 数据完整性校验。 | ⭐ |
 | **Base58Forge** | Base58 编解码器：Bitcoin 字母表，紧凑防误读字节编码。 | ⭐ |
+| **QRForge** | 纯前端二维码生成器：文本/网址/WiFi/名片，可调容错与配色，导出 SVG 与 PNG。真离线、零依赖。 | ⭐ |
 | **JwtForge** | 离线 JWT / Token 解码器：拆分 header、payload、signature，可读化 exp/nbf/iat，不校验签名。 | ⭐ |
 | **UuidForge** | 离线 UUID / nanoid 生成器：v4 随机、v7 时间有序、v5 命名空间哈希（可复现）、批量生成与校验，数据永不离机。 | ⭐ |
 | **AuthForge** | 离线 TOTP 身份验证器：自写 SHA1/HMAC-SHA1/RFC6238，生成 2FA 动态验证码与密钥，数据永不离机。 | ⭐ |
@@ -492,7 +569,10 @@
 | **PasswordForge** | 安全口令生成器：可配字符集、避开易混字符（Il1O0o）、每类至少含一个，实时熵估计。 | ⭐ |
 | **StrengthForge** | 密码强度估计：按字符集熵估算强度等级与暴力破解耗时，识别常见弱口令与模式，离线可用。 | ⭐ |
 | **PassgenForge** | 安全密码生成器：自定义长度与字符集、实时熵估算、浏览器本地随机，离线可用。 | ⭐ |
+| **IbanForge** | IBAN 与银行卡校验：mod-97 校验位推算、41 国长度表、四位分组格式化、Luhn 校验，离线可用。 | ⭐ |
+| **DmarcForge** | DMARC 记录分析：标签解读、防护评分分级、语法体检与记录生成，离线可用。 | ⭐ |
 | **VaultForge** | 本地优先的零知识加密密码库：AES-GCM + PBKDF2，登录/卡片/笔记/身份全加密，数据永不出端。 | ⭐ |
+| **CipherForge** | 离线经典密码：凯撒 / 维吉尼亚 / ROT13 / Atbash，数据不出本机。 | ⭐ |
 
 ### 🎷️ 数据结构
 
@@ -549,28 +629,13 @@
 | **SheetForge** | 离线迷你电子表格：A1 引用、区域、SUM / AVG / IF / ROUND 等公式引擎，依赖图重算与环检测，CSV 导入导出，零依赖。 | ⭐ |
 | **JsonPathForge** | 离线 JSONPath 查询器：自研解析器支持 $ . .. [*] [n] [切片] [?(@.x op v)] 过滤与正则匹配，实时高亮命中、输出规范化路径。 | ⭐ |
 
-### ⚡ 效率工具
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **RecipeForge** | 食谱管理：录入配料一键按份量缩放，本地保存多个食谱，离线可用。 | ⭐ |
-| **ExpenseForge** | 记账与预算：录入收支、按分类与月份汇总，本地保存，离线可用。 | ⭐ |
-| **CalorieForge** | 卡路里与营养记账：记录饮食热量与蛋白 / 碳水 / 脂肪，本机保存，离线可用。 | ⭐ |
-| **FormForge** | 本地优先离线表单构建器：拖拽式字段、实时预览，一键导出独立 HTML 或 JSON Schema。 |  |
-| **FocusForge** | 本地优先的专注与计时工具箱：番茄钟、倒计时、秒表、世界时钟，数据留在浏览器。 |  |
-| **DeckForge** | Markdown 一键变幻灯片：实时预览、键盘翻页、全屏演示、打印导出 PDF。离线、零依赖。 | ⭐ |
-| **CVForge** | 离线简历 / CV 工作台：结构化表单 + 实时预览，三种模板，一键打印导出 PDF，JSON 导入导出，数据留本地。 | ⭐ |
-| **KanbanForge** | 离线看板：多列拖拽卡片，优先级 / 标签 / 搜索筛选，导出 Markdown / JSON，数据永不离机。 | ⭐ |
-| **InvoiceForge** | 离线发票 / 报价单生成器：行项目自动计税、人民币大写金额、A4 实时预览、一键打印导出 PDF。 | ⭐ |
-| **TypingForge** | 离线打字速度测试：WPM / CPM / 准确率 / 稳定性，逐字符实时高亮，15/30/60 秒模式，可复现词表与本地最佳记录。 | ⭐ |
-| **DateForge** | 离线日期计算器：日期间隔（年月日精确拆分）、加减推算、ISO 周 / 年积日 / 工作日、年龄与下次生日，纯整数序列算法无时区陷阱。 | ⭐ |
-| **HabitForge** | 离线习惯追踪器：每日打卡、当前 / 最长连击、近 30 天完成率、半年热力图，数据只存本地，支持 JSON 导入导出。 | ⭐ |
-
 ### 🎷️ 网络
 
 | 工具 | 说明 | 旗舰 |
 |---|---|:---:|
 | **MacForge** | MAC 地址工具：随机生成 / 校验 / 规范化、单播多播与本地判定、OUI 厂商查询，离线可用。 | ⭐ |
+| **HttpStatusForge** | HTTP 状态码速查：五大分类语义说明、可重试与可缓存判定、关键词检索，离线可用。 | ⭐ |
+| **RobotsForge** | robots.txt 生成与抓取测试：按 UA 选组、最长匹配判定、通配符与 $ 锚点、语法体检，离线可用。 | ⭐ |
 | **SubnetForge** | 离线 IPv4/IPv6 CIDR 子网计算器：网络/广播地址、可用主机范围、子网拆分与归属判断，零上传。 | ⭐ |
 | **UrlForge** | 离线 URL 工具箱：解析、编码/解码、查询参数构建与排序、Slug 生成、规范化，零上传。 | ⭐ |
 | **HttpForge** | 离线 HTTP 速查：状态码（1xx-5xx 可搜索）/ 请求方法特性 / 常见 MIME 类型。 |  |
@@ -579,96 +644,11 @@
 | **BookForge** | 离线书签生成器：粘贴 JavaScript 一键生成可拖入书签栏的 javascript: 书签，支持反向解析与语法校验。 | ⭐ |
 | **StatusForge** | 离线 HTTP 状态码速查：覆盖 1xx–5xx 共 60+ 状态码，支持数字 / 关键词搜索与分类筛选。 | ⭐ |
 
-### 🎷️ AI 效率
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **ChatForge** | 本地优先 BYOK AI 对话：自带密钥直连 OpenAI/Anthropic/OpenRouter，流式输出，密钥永不离机。 | ⭐ |
-| **PromptForge** | 本地优先 AI Prompt 工作台：变量模板、实时预览、BYOK 直连大模型、Token 与成本估算、本地历史，密钥永不离机。 | ⭐ |
-
-### 📋 任务管理
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **FlowForge** | 本地优先离线看板：多看板、拖拽排序、标签/优先级/截止、清单子任务，数据留在浏览器。 |  |
-
 ### 🛠️ 聚合器
 
 | 工具 | 说明 | 旗舰 |
 |---|---|:---:|
 | **NanoBox** | 单文件工具中枢：模糊搜索全部 nano-tools，内联安全表达式计算器，一键在 iframe 中打开。本地优先、零依赖。 |  |
-
-### 🎷️ 编码工具
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **QRForge** | 纯前端二维码生成器：文本/网址/WiFi/名片，可调容错与配色，导出 SVG 与 PNG。真离线、零依赖。 | ⭐ |
-
-### 🎷️ 效率
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **SnipForge** | 本地优先的代码片段管理器：分类、标签、全文搜索，一键复制，JSON 导入导出，离线可用。 | ⭐ |
-| **PlanForge** | 本地优先甘特图 / 路线图规划器：任务、依赖、里程碑、进度追踪，导出 PNG/SVG/JSON，离线可用。 | ⭐ |
-
-### 🎷️ 媒体工具
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **AudioForge** | 离线音频编辑器：加载音频、波形预览、裁剪、增益、淡入淡出、归一化、反转，导出 WAV，零上传。 | ⭐ |
-
-### 🎷️ 开发工具
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **A11yForge** | 离线无障碍工具箱：WCAG 对比度检查、合规取色、色盲模拟、HTML/ARIA 审计，零上传。 | ⭐ |
-
-### 🎷️ 图像与媒体
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **PDFForge** | 本地优先 PDF 工具箱：合并、拆分、旋转、重排、优化重存，文件永不上传。 | ⭐ |
-
-### 🎷️ 文本
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **CaseForge** | 离线文本大小写转换与行工具：camelCase/snake_case/kebab-case 等、去重、排序、加前缀与行号。 |  |
-| **LoremForge** | 离线 Lorem ipsum 占位文本生成器：可复现种子、段落/句数可调、可选 Lorem 开头与纯词数模式。 |  |
-| **AsciiForge** | 离线 ASCII 艺术：A-Z 0-9 点阵横幅 / 文本框 / 黑客语转换。 | ⭐ |
-| **LinesForge** | 离线文本行工具箱：去重 / 排序 / 删空行 / 加行号 / 反转，实时统计。 |  |
-| **EmojiForge** | 离线 emoji 速查：120+ 常用 emoji，按关键词或分组搜索，点击即复制并显示 Unicode 码位。 | ⭐ |
-| **WordForge** | 离线文本统计：字符 / 词数 / 行数 / 句子 / 段落 / 阅读时长 + 高频英文词，中英文混排友好。 | ⭐ |
-| **SlugForge** | 离线 URL Slug 生成：变音符折叠（é→e、ß→ss）、可配置分隔符 / 大小写 / 长度，支持批量。 | ⭐ |
-| **RomanForge** | 离线罗马数字：阿拉伯数字 ↔ 罗马数字互转，支持规范形校验，范围 1–3999。 | ⭐ |
-| **TempForge** | 离线温度换算：摄氏度 / 华氏度 / 开尔文 / 兰氏度四标度互转，实时计算。 | ⭐ |
-| **MorseForge** | 离线莫尔斯电码：文本 ↔ 电码互转，自动识别方向，内置完整速查表可点击输入。 | ⭐ |
-
-### 🎷️ 设计创意
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **BarcodeForge** | 离线一维条码生成器：Code 128 / EAN-13 / UPC-A（含校验位），矢量 SVG 导出，零依赖。 | ⭐ |
-| **ExifForge** | 离线图片 EXIF 元数据查看与清除：解析 JPEG APP1 / TIFF IFD，一键剥离拍摄隐私信息。 |  |
-| **AvatarForge** | 离线身份图标：种子文本生成确定性 identicon（SVG），零上传。 |  |
-| **FaviconForge** | 离线 Favicon 生成：文字 / Emoji → SVG，自定义配色。 |  |
-| **GradientForge** | 离线 CSS 渐变构建器：线性 / 径向 / 锥形，多色标实时预览，一键复制 CSS。 |  |
-| **WhiteboardForge** | 离线无限画布白板：矩形/椭圆/线/箭头/自由笔/文字/便签，平移缩放、撤销重做、本地自动保存，导出 PNG 与 SVG。 | ⭐ |
-
-### 🎷️ 安全
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **CipherForge** | 离线经典密码：凯撒 / 维吉尼亚 / ROT13 / Atbash，数据不出本机。 | ⭐ |
-
-### 🎷️ 开发
-
-| 工具 | 说明 | 旗舰 |
-|---|---|:---:|
-| **HtmlForge** | 离线 HTML 工具：压缩 / 格式化 / 转义反转义，零依赖。 |  |
-| **TypeForge** | 离线 JSON → TypeScript 接口生成：嵌套对象展开、数组联合类型推断，零上传。 | ⭐ |
-| **MetaForge** | 离线 Meta 标签生成器：基础 + Open Graph + Twitter Card 全套，SEO 长度检查。 |  |
-| **ShotForge** | 离线代码截图生成器：轻量语法高亮 + 仿 macOS 窗口外观，一键复制 SVG / 导出 2x PNG。 | ⭐ |
 
 ---
 
