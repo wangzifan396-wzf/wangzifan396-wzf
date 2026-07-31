@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 318 款单文件工具 · 零依赖 · 本地优先
+### 328 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![318 Tools](https://img.shields.io/badge/工具-318%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![320 Repos](https://img.shields.io/badge/仓库-320%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![270 Flagship](https://img.shields.io/badge/旗舰-270%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![328 Tools](https://img.shields.io/badge/工具-328%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![330 Repos](https://img.shields.io/badge/仓库-330%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![280 Flagship](https://img.shields.io/badge/旗舰-280%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 318 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 328 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（270 款）
+## 旗舰工具（280 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -201,6 +201,16 @@
 <tr><td><b>SvgPathForge</b></td><td>SVG path 工具箱：命令解析、相对↔绝对互转、包围盒计算与坐标数值简化取整，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/SvgPathForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SvgPathForge">src</a></td></tr>
 <tr><td><b>JsonPointerForge</b></td><td>RFC 6901 JSON Pointer：按 /a/b/1 取值与赋值、~0/~1 转义处理，便于 JSON 补丁与定位，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/JsonPointerForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/JsonPointerForge">src</a></td></tr>
 <tr><td><b>AsciiTableForge</b></td><td>ASCII 表格生成器：Tab/逗号分隔行列数据渲染为带边框、列宽对齐的纯文本表格，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/AsciiTableForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/AsciiTableForge">src</a></td></tr>
+<tr><td><b>McpForge</b></td><td>MCP 服务器配置生成与体检：stdio/sse/http 传输识别、参数与环境变量解析、硬编码密钥审计，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/McpForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/McpForge">src</a></td></tr>
+<tr><td><b>RagForge</b></td><td>RAG 分块规划器：中英混排 token 估算、重叠切分与冗余率、上下文预算分配、Embedding 成本测算，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/RagForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/RagForge">src</a></td></tr>
+<tr><td><b>AgentSchemaForge</b></td><td>Agent 工具调用 Schema 生成：OpenAI/Anthropic/MCP 三种风格互转、lint 检查与调用参数校验，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/AgentSchemaForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/AgentSchemaForge">src</a></td></tr>
+<tr><td><b>DnsForge</b></td><td>DNS 记录校验与 zone 解析：A/AAAA/CNAME/MX/TXT/NS/SRV/CAA 逐条体检、TTL 换算与 CNAME 冲突检测，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/DnsForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/DnsForge">src</a></td></tr>
+<tr><td><b>HttpCacheForge</b></td><td>Cache-Control 策略生成：六种场景预设、max-age/s-maxage/SWR 新鲜度推演、响应头冲突体检与 ETag 生成，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/HttpCacheForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/HttpCacheForge">src</a></td></tr>
+<tr><td><b>TlsForge</b></td><td>TLS 密码套件体检：前向保密/AEAD 判定与 A–F 评分、协议版本风险表、HSTS 生成与证书到期提醒，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/TlsForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/TlsForge">src</a></td></tr>
+<tr><td><b>CspForge</b></td><td>内容安全策略生成与评分：strict/basic/lockdown 三档模板、nonce 生成、unsafe-inline 与通配符风险检测，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/CspForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CspForge">src</a></td></tr>
+<tr><td><b>SriForge</b></td><td>子资源完整性 SRI：纯前端 SHA-256 摘要（base64/hex）、integrity 解析校验、script/link 标签生成与跨域体检，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/SriForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SriForge">src</a></td></tr>
+<tr><td><b>BlurhashForge</b></td><td>BlurHash 编解码：base83 与 DCT 分量还原、Canvas 实时预览、渐变编码生成与 CSS 占位图导出，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/BlurhashForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/BlurhashForge">src</a></td></tr>
+<tr><td><b>NdjsonForge</b></td><td>NDJSON/JSON Lines 处理：逐行校验与错误定位、嵌套字段画像、类型一致性体检、JSON 数组与 CSV 互转，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/NdjsonForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/NdjsonForge">src</a></td></tr>
 <tr><td><b>MetronomeForge</b></td><td>节拍器：可调 BPM 与拍号，支持重音与前瞻调度内核，Tap 测速，辅助练习节奏，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/MetronomeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MetronomeForge">src</a></td></tr>
 <tr><td><b>PaletteForge</b></td><td>配色生成器：色相旋转派生互补/三角/邻近/单色方案，WCAG 对比度校验，点选即复制，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PaletteForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PaletteForge">src</a></td></tr>
 <tr><td><b>ChordForge</b></td><td>和弦与音阶：和弦识别、音阶构建、音名解析与异名同音归一。</td><td><a href="https://wangzifan396-wzf.github.io/ChordForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ChordForge">src</a></td></tr>
@@ -300,7 +310,7 @@
 
 ---
 
-## 全部工具按分类（318 款）
+## 全部工具按分类（328 款）
 
 ### 📝 文本处理
 
@@ -402,6 +412,9 @@
 | **ContextLens** | LLM 上下文与成本可视化器：token 估算、多模型价格对比、上下文窗口占用分析。 |  |
 | **AttentionForge** | Transformer 注意力可视化：QK 缩放点积、softmax 权重热力矩阵、因果掩码，离线可用。 | ⭐ |
 | **LlmCostForge** | 大模型调用成本测算：token 估算、10 款模型比价、缓存节省与窗口预警，离线可用。 | ⭐ |
+| **McpForge** | MCP 服务器配置生成与体检：stdio/sse/http 传输识别、参数与环境变量解析、硬编码密钥审计，离线可用。 | ⭐ |
+| **RagForge** | RAG 分块规划器：中英混排 token 估算、重叠切分与冗余率、上下文预算分配、Embedding 成本测算，离线可用。 | ⭐ |
+| **AgentSchemaForge** | Agent 工具调用 Schema 生成：OpenAI/Anthropic/MCP 三种风格互转、lint 检查与调用参数校验，离线可用。 | ⭐ |
 | **ChatForge** | 本地优先 BYOK AI 对话：自带密钥直连 OpenAI/Anthropic/OpenRouter，流式输出，密钥永不离机。 | ⭐ |
 | **PromptForge** | 本地优先 AI Prompt 工作台：变量模板、实时预览、BYOK 直连大模型、Token 与成本估算、本地历史，密钥永不离机。 | ⭐ |
 
@@ -527,6 +540,7 @@
 | **SvgOptForge** | SVG 压缩优化器：去注释、数值取整、空白折叠、体积统计，离线可用。 | ⭐ |
 | **PngForge** | PNG 元数据解析：读取 IHDR 尺寸/色彩类型/位深/交错、调色板与 ICC 标记、tEXt 文本块，离线可用。 | ⭐ |
 | **IcoForge** | PNG 转 ICO：校验 PNG 签名、读取尺寸并打包为 Windows .ico 容器供下载，纯前端离线生成。 | ⭐ |
+| **BlurhashForge** | BlurHash 编解码：base83 与 DCT 分量还原、Canvas 实时预览、渐变编码生成与 CSS 占位图导出，离线可用。 | ⭐ |
 | **AudioForge** | 离线音频编辑器：加载音频、波形预览、裁剪、增益、淡入淡出、归一化、反转，导出 WAV，零上传。 | ⭐ |
 | **PDFForge** | 本地优先 PDF 工具箱：合并、拆分、旋转、重排、优化重存，文件永不上传。 | ⭐ |
 | **PixelForge** | 离线像素画 / 精灵图编辑器：画笔、橡皮、填充、取色、直线、矩形、X 轴镜像、网格缩放、24 色调色板、动画帧+洋葱皮+FPS 预览，导出 PNG@Nx 与雪碧图，localStorage 多项目管理。 | ⭐ |
@@ -609,6 +623,9 @@
 | **SpfForge** | SPF 记录分析：机制解析、DNS 查询计数、防护评级 A-F、合规建议，离线可用。 | ⭐ |
 | **DkimForge** | DKIM 记录分析：标签解读、密钥强度估算、防护评分分级、语法体检，离线可用。 | ⭐ |
 | **HttpHeadersForge** | HTTP 安全响应头审计：HSTS/CSP/COOP 等 8 项体检、评分分级、修复建议，离线可用。 | ⭐ |
+| **TlsForge** | TLS 密码套件体检：前向保密/AEAD 判定与 A–F 评分、协议版本风险表、HSTS 生成与证书到期提醒，离线可用。 | ⭐ |
+| **CspForge** | 内容安全策略生成与评分：strict/basic/lockdown 三档模板、nonce 生成、unsafe-inline 与通配符风险检测，离线可用。 | ⭐ |
+| **SriForge** | 子资源完整性 SRI：纯前端 SHA-256 摘要（base64/hex）、integrity 解析校验、script/link 标签生成与跨域体检，离线可用。 | ⭐ |
 | **VaultForge** | 本地优先的零知识加密密码库：AES-GCM + PBKDF2，登录/卡片/笔记/身份全加密，数据永不出端。 | ⭐ |
 | **CipherForge** | 离线经典密码：凯撒 / 维吉尼亚 / ROT13 / Atbash，数据不出本机。 | ⭐ |
 
@@ -658,6 +675,7 @@
 | **StatForge** | 统计与线性回归：均值/中位数/众数、方差/标准差、四分位与 IQR、线性拟合（斜率/截距/R²），一键出直方图，离线可用。 | ⭐ |
 | **JsonDiffForge** | 结构化 JSON 差异比对：递归扁平化、新增/删除/修改逐项列出、路径级定位，离线可用。 | ⭐ |
 | **JsonPointerForge** | RFC 6901 JSON Pointer：按 /a/b/1 取值与赋值、~0/~1 转义处理，便于 JSON 补丁与定位，离线可用。 | ⭐ |
+| **NdjsonForge** | NDJSON/JSON Lines 处理：逐行校验与错误定位、嵌套字段画像、类型一致性体检、JSON 数组与 CSV 互转，离线可用。 | ⭐ |
 | **TomlForge** | TOML 解析器：字符串/数值/数组/表/数组表，零依赖解析。 | ⭐ |
 | **IniForge** | INI 配置解析：section/键值/注释，与序列化互逆。 | ⭐ |
 | **SQLForge** | 离线 SQL 数据库客户端：基于 SQLite(WASM) 运行真实 SQL，导入 CSV/JSON 建表，结果导出 CSV/JSON，零依赖、数据永不离机。 | ⭐ |
@@ -676,6 +694,8 @@
 | **MacForge** | MAC 地址工具：随机生成 / 校验 / 规范化、单播多播与本地判定、OUI 厂商查询，离线可用。 | ⭐ |
 | **HttpStatusForge** | HTTP 状态码速查：五大分类语义说明、可重试与可缓存判定、关键词检索，离线可用。 | ⭐ |
 | **RobotsForge** | robots.txt 生成与抓取测试：按 UA 选组、最长匹配判定、通配符与 $ 锚点、语法体检，离线可用。 | ⭐ |
+| **DnsForge** | DNS 记录校验与 zone 解析：A/AAAA/CNAME/MX/TXT/NS/SRV/CAA 逐条体检、TTL 换算与 CNAME 冲突检测，离线可用。 | ⭐ |
+| **HttpCacheForge** | Cache-Control 策略生成：六种场景预设、max-age/s-maxage/SWR 新鲜度推演、响应头冲突体检与 ETag 生成，离线可用。 | ⭐ |
 | **SubnetForge** | 离线 IPv4/IPv6 CIDR 子网计算器：网络/广播地址、可用主机范围、子网拆分与归属判断，零上传。 | ⭐ |
 | **UrlForge** | 离线 URL 工具箱：解析、编码/解码、查询参数构建与排序、Slug 生成、规范化，零上传。 | ⭐ |
 | **HttpForge** | 离线 HTTP 速查：状态码（1xx-5xx 可搜索）/ 请求方法特性 / 常见 MIME 类型。 |  |
