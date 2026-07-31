@@ -2,9 +2,9 @@
 
 <img src="./profile_header.png" alt="nano-tools 100 tools milestone" width="100%">
 
-### 308 款单文件工具 · 零依赖 · 本地优先
+### 318 款单文件工具 · 零依赖 · 本地优先
 
-[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![308 Tools](https://img.shields.io/badge/工具-308%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![310 Repos](https://img.shields.io/badge/仓库-310%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![260 Flagship](https://img.shields.io/badge/旗舰-260%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
+[![Portal](https://img.shields.io/badge/门户-nano--tools-5E6AD2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wyMCAweiIvPjwvc3ZnPg==)](https://wangzifan396-wzf.github.io/WB/) [![318 Tools](https://img.shields.io/badge/工具-318%20款-10B981?style=flat-square)](https://github.com/wangzifan396-wzf/WB) [![320 Repos](https://img.shields.io/badge/仓库-320%20座-A78BFA?style=flat-square)](https://github.com/wangzifan396-wzf?tab=repositories&q=nano-tools+org%3Awangzifan396-wzf) [![270 Flagship](https://img.shields.io/badge/旗舰-270%20款-F5A623?style=flat-square)](https://github.com/wangzifan396-wzf/WB#readme) [![Zero Dep](https://img.shields.io/badge/依赖-0%20外部-22D3EE?style=flat-square)](https://github.com/wangzifan396-wzf/WB)
 
 **每工具独立仓库 · 单文件 HTML · 双击即开 · 断网可用 · 你拥有全部源码**
 
@@ -16,13 +16,13 @@
 
 <img src="./all_tools_100.png" alt="全部 100 款工具墙" width="100%">
 
-<i>全部 308 款单文件工具 — 紫色 = 旗舰工具</i>
+<i>全部 318 款单文件工具 — 紫色 = 旗舰工具</i>
 
 </div>
 
 ---
 
-## 旗舰工具（260 款）
+## 旗舰工具（270 款）
 
 <table>
 <tr><th>工具</th><th>说明</th><th>试用</th></tr>
@@ -191,6 +191,16 @@
 <tr><td><b>CorsForge</b></td><td>CORS 配置校验：通配符/多来源/凭证组合风险检测、合规评级，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/CorsForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/CorsForge">src</a></td></tr>
 <tr><td><b>HttpHeadersForge</b></td><td>HTTP 安全响应头审计：HSTS/CSP/COOP 等 8 项体检、评分分级、修复建议，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/HttpHeadersForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/HttpHeadersForge">src</a></td></tr>
 <tr><td><b>ColorContrastForge</b></td><td>WCAG 颜色对比度计算器：相对亮度、对比比率、AA/AAA 通过判定与实时预览，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/ColorContrastForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ColorContrastForge">src</a></td></tr>
+<tr><td><b>PngForge</b></td><td>PNG 元数据解析：读取 IHDR 尺寸/色彩类型/位深/交错、调色板与 ICC 标记、tEXt 文本块，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PngForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PngForge">src</a></td></tr>
+<tr><td><b>EasingForge</b></td><td>缓动函数库：10 种经典曲线 + cubic-bezier 牛顿迭代求值，SVG 曲线可视化预览，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/EasingForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/EasingForge">src</a></td></tr>
+<tr><td><b>GridForge</b></td><td>CSS Grid 模板生成器：列/行/单位/间距实时生成 grid-template 与模板区域，带可视预览，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/GridForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/GridForge">src</a></td></tr>
+<tr><td><b>RateLimitForge</b></td><td>限流算法可视化：令牌桶/漏桶/滑动窗口的可用量、剩余量与容量估算，附算法对比说明，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/RateLimitForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/RateLimitForge">src</a></td></tr>
+<tr><td><b>SqlExplainForge</b></td><td>SQL 执行顺序解析：拆解 SELECT/FROM/JOIN/WHERE/GROUP/ORDER/LIMIT，按真实执行步骤还原，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/SqlExplainForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SqlExplainForge">src</a></td></tr>
+<tr><td><b>LzStringForge</b></td><td>LZW 字符串压缩：纯 JS 文本压缩为 Base64、UTF-8 安全、压缩率统计与无损还原，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/LzStringForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/LzStringForge">src</a></td></tr>
+<tr><td><b>IcoForge</b></td><td>PNG 转 ICO：校验 PNG 签名、读取尺寸并打包为 Windows .ico 容器供下载，纯前端离线生成。</td><td><a href="https://wangzifan396-wzf.github.io/IcoForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/IcoForge">src</a></td></tr>
+<tr><td><b>SvgPathForge</b></td><td>SVG path 工具箱：命令解析、相对↔绝对互转、包围盒计算与坐标数值简化取整，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/SvgPathForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/SvgPathForge">src</a></td></tr>
+<tr><td><b>JsonPointerForge</b></td><td>RFC 6901 JSON Pointer：按 /a/b/1 取值与赋值、~0/~1 转义处理，便于 JSON 补丁与定位，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/JsonPointerForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/JsonPointerForge">src</a></td></tr>
+<tr><td><b>AsciiTableForge</b></td><td>ASCII 表格生成器：Tab/逗号分隔行列数据渲染为带边框、列宽对齐的纯文本表格，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/AsciiTableForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/AsciiTableForge">src</a></td></tr>
 <tr><td><b>MetronomeForge</b></td><td>节拍器：可调 BPM 与拍号，支持重音与前瞻调度内核，Tap 测速，辅助练习节奏，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/MetronomeForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/MetronomeForge">src</a></td></tr>
 <tr><td><b>PaletteForge</b></td><td>配色生成器：色相旋转派生互补/三角/邻近/单色方案，WCAG 对比度校验，点选即复制，离线可用。</td><td><a href="https://wangzifan396-wzf.github.io/PaletteForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/PaletteForge">src</a></td></tr>
 <tr><td><b>ChordForge</b></td><td>和弦与音阶：和弦识别、音阶构建、音名解析与异名同音归一。</td><td><a href="https://wangzifan396-wzf.github.io/ChordForge/">demo</a> / <a href="https://github.com/wangzifan396-wzf/ChordForge">src</a></td></tr>
@@ -290,7 +300,7 @@
 
 ---
 
-## 全部工具按分类（308 款）
+## 全部工具按分类（318 款）
 
 ### 📝 文本处理
 
@@ -311,6 +321,7 @@
 | **AnsiForge** | ANSI 终端着色：转义序列渲染为彩色 HTML、一键去色还原纯文本、SGR 序列统计，离线可用。 | ⭐ |
 | **FrontmatterForge** | Markdown Front-matter 体检：YAML 子集解析、必填字段校验、重复键与 SEO 长度提醒、规范化回写，离线可用。 | ⭐ |
 | **TreeForge** | 目录树生成器：缩进与路径列表转 tree 连线图，JSON/ASCII 互转，离线可用。 | ⭐ |
+| **AsciiTableForge** | ASCII 表格生成器：Tab/逗号分隔行列数据渲染为带边框、列宽对齐的纯文本表格，离线可用。 | ⭐ |
 | **DistForge** | 字符串距离六合一：Levenshtein/Damerau/Hamming/Jaro-Winkler/Dice。 | ⭐ |
 | **CaseForge** | 离线文本大小写转换与行工具：camelCase/snake_case/kebab-case 等、去重、排序、加前缀与行号。 |  |
 | **LoremForge** | 离线 Lorem ipsum 占位文本生成器：可复现种子、段落/句数可调、可选 Lorem 开头与纯词数模式。 |  |
@@ -358,6 +369,8 @@
 | **SeoForge** | SEO 与元数据分析：标题/描述/OG/Twitter/结构化数据体检、评分分级、关键词密度，离线可用。 | ⭐ |
 | **RegexExplainForge** | 正则可视化解释器：逐片段中文化说明、分组/量词/转义解析、语法错误定位，离线可用。 | ⭐ |
 | **CorsForge** | CORS 配置校验：通配符/多来源/凭证组合风险检测、合规评级，离线可用。 | ⭐ |
+| **RateLimitForge** | 限流算法可视化：令牌桶/漏桶/滑动窗口的可用量、剩余量与容量估算，附算法对比说明，离线可用。 | ⭐ |
+| **SqlExplainForge** | SQL 执行顺序解析：拆解 SELECT/FROM/JOIN/WHERE/GROUP/ORDER/LIMIT，按真实执行步骤还原，离线可用。 | ⭐ |
 | **StateForge** | 有限状态机：定义/事件推演/可达性/死状态检测。 | ⭐ |
 | **BenchForge** | 基准统计：mean/median/MAD/P95 + 离群点检测 + A/B 速度比。 | ⭐ |
 | **QsForge** | URL 查询串：解析 / 序列化，重复键转数组，解码空格。 | ⭐ |
@@ -512,6 +525,8 @@
 | **ImgConvertForge** | 图片格式转换：浏览器内将 PNG/JPEG/WebP 互转，可调质量与最大边长，Canvas 实时预览并下载，零上传、离线可用。 | ⭐ |
 | **BrailleForge** | 盲文点阵生成器：将文字渲染为盲文 Unicode 点阵字符画，支持反相与画布尺寸调节，复古终端风格，离线可用。 | ⭐ |
 | **SvgOptForge** | SVG 压缩优化器：去注释、数值取整、空白折叠、体积统计，离线可用。 | ⭐ |
+| **PngForge** | PNG 元数据解析：读取 IHDR 尺寸/色彩类型/位深/交错、调色板与 ICC 标记、tEXt 文本块，离线可用。 | ⭐ |
+| **IcoForge** | PNG 转 ICO：校验 PNG 签名、读取尺寸并打包为 Windows .ico 容器供下载，纯前端离线生成。 | ⭐ |
 | **AudioForge** | 离线音频编辑器：加载音频、波形预览、裁剪、增益、淡入淡出、归一化、反转，导出 WAV，零上传。 | ⭐ |
 | **PDFForge** | 本地优先 PDF 工具箱：合并、拆分、旋转、重排、优化重存，文件永不上传。 | ⭐ |
 | **PixelForge** | 离线像素画 / 精灵图编辑器：画笔、橡皮、填充、取色、直线、矩形、X 轴镜像、网格缩放、24 色调色板、动画帧+洋葱皮+FPS 预览，导出 PNG@Nx 与雪碧图，localStorage 多项目管理。 | ⭐ |
@@ -530,6 +545,9 @@
 | **VoronoiForge** | Voronoi 图生成器：放置站点，实时计算平面每点的最近邻站点并着色，生成细胞状图案，可点击增点，离线可用。 | ⭐ |
 | **OgForge** | OG 社交卡片生成器：可视化编辑标题/描述/配色，实时生成 1200×630 预览与 meta 标签，利于分享卡片，离线可用。 | ⭐ |
 | **ColorContrastForge** | WCAG 颜色对比度计算器：相对亮度、对比比率、AA/AAA 通过判定与实时预览，离线可用。 | ⭐ |
+| **EasingForge** | 缓动函数库：10 种经典曲线 + cubic-bezier 牛顿迭代求值，SVG 曲线可视化预览，离线可用。 | ⭐ |
+| **GridForge** | CSS Grid 模板生成器：列/行/单位/间距实时生成 grid-template 与模板区域，带可视预览，离线可用。 | ⭐ |
+| **SvgPathForge** | SVG path 工具箱：命令解析、相对↔绝对互转、包围盒计算与坐标数值简化取整，离线可用。 | ⭐ |
 | **PaletteForge** | 配色生成器：色相旋转派生互补/三角/邻近/单色方案，WCAG 对比度校验，点选即复制，离线可用。 | ⭐ |
 | **FontForge** | 字体预览与排版样张工作台：拖入字体即时渲染，调节字号 / 行高 / 字距 / 字重，字形表与可移植样张导出，本地优先。 | ⭐ |
 | **ImageForge** | 离线图片编辑器：裁剪、缩放、旋转翻转、亮度 / 对比度 / 饱和度 / 色相 / 模糊调整、滤镜，导出 PNG/JPEG/WebP，零上传。 | ⭐ |
@@ -561,6 +579,7 @@
 | **StegForge** | 零宽隐写：把秘密消息藏进不可见字符，检测/提取/防篡改。 | ⭐ |
 | **HashIdForge** | 哈希类型识别：根据长度、字符集与特征前缀判断 md5/sha 系列/bcrypt/argon2/ntlm 等，离线可用。 | ⭐ |
 | **ChefForge** | 链式编解码流水线：Base64/Hex/URL/ROT13/XOR 组合配方、逐步中间结果，离线可用。 | ⭐ |
+| **LzStringForge** | LZW 字符串压缩：纯 JS 文本压缩为 Base64、UTF-8 安全、压缩率统计与无损还原，离线可用。 | ⭐ |
 | **MurmurForge** | MurmurHash3 x86_32 哈希：UTF-8 输入、自定义种子、分桶路由。 | ⭐ |
 | **Base32Forge** | Base32 编解码：RFC4648 / Base32Hex / Crockford / z-base-32 四变体。 | ⭐ |
 | **VarintForge** | protobuf varint + ZigZag 变长整数编解码，hex 字节流互转。 | ⭐ |
@@ -638,6 +657,7 @@
 | **XlsxForge** | 纯前端 Excel 生成器：粘贴 CSV 即打包为标准 .xlsx（inline string + 数字类型自动识别，自实现 STORED ZIP），零依赖离线可用。 | ⭐ |
 | **StatForge** | 统计与线性回归：均值/中位数/众数、方差/标准差、四分位与 IQR、线性拟合（斜率/截距/R²），一键出直方图，离线可用。 | ⭐ |
 | **JsonDiffForge** | 结构化 JSON 差异比对：递归扁平化、新增/删除/修改逐项列出、路径级定位，离线可用。 | ⭐ |
+| **JsonPointerForge** | RFC 6901 JSON Pointer：按 /a/b/1 取值与赋值、~0/~1 转义处理，便于 JSON 补丁与定位，离线可用。 | ⭐ |
 | **TomlForge** | TOML 解析器：字符串/数值/数组/表/数组表，零依赖解析。 | ⭐ |
 | **IniForge** | INI 配置解析：section/键值/注释，与序列化互逆。 | ⭐ |
 | **SQLForge** | 离线 SQL 数据库客户端：基于 SQLite(WASM) 运行真实 SQL，导入 CSV/JSON 建表，结果导出 CSV/JSON，零依赖、数据永不离机。 | ⭐ |
